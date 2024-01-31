@@ -5,9 +5,7 @@ date: 2014-07-18
 img: cabin.png
 alt: image-alt
 updated-date: April 2014
-description:
-
-"
+description: "
 Test
 "
 ---
