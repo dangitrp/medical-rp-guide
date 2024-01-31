@@ -4,8 +4,8 @@ modal-id: 1
 date: 2014-07-18
 img: cabin.png
 alt: image-alt
-project-date: April 2014
-description: "
+project-date: 01-31-2024
+description: 
 # Test
 Description
 
@@ -13,5 +13,5 @@ Description
 - Step 2
 - Step 3
 
-"
+
 ---
