@@ -6,6 +6,12 @@ img: cabin.png
 alt: image-alt
 project-date: April 2014
 description: "
-Test
+# Test
+Description
+
+- Step 1
+- Step 2
+- Step 3
+
 "
 ---
