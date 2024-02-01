@@ -36,6 +36,7 @@ Here are some tips to be mindful when dealing with paranormal patients
   - Pulling out dents
   - Calling in a vehicle mechanic to help you out
   - Plugging in to any console port and running diagnostics
+  - Taking apart nearby electronics or metal objects for parts to use in surgery
 
 ## Vampires
 
