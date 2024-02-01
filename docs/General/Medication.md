@@ -5,7 +5,7 @@ parent: General Medical
 ---
 
 # Medication Classes and Examples
-## Analgesics
+## Analgesics (Pain Killers)
 
 These are pain relievers and fever reducers. For our use they will be broken down into two sub-categories: Non-narcotic analgesics for minor to moderate pain, and narcotic analgesic for severe pain.
 
@@ -21,7 +21,7 @@ Some narcotic analgesics include:
 
 Use your judgment when determining the pain level of the patient, and always err on the side of caution when a patient comes in and immediately asks for narcotics. It will happen more than you might be prepared for.
 
-## Anticonvulsants
+## Anticonvulsants (Seizures)
 
 These help to normalize the way nerve impulses travel along the nerve cells which helps prevent or treat seizures. When the brain is working normally the nerve cells talk to each other using controlled electrical signals from one nerve cell to another. This tells the body to do everything it needs or wants to do. During a seizure there is a change in the level of nerve cell electrical signals from a normal level to an excessive or abnormal amount of nerve signals. This increased nerve activity is responsible for the signs and symptoms of a seizure. There are many conditions that can trigger a seizure, and the situation you may be faced with most would be due to a traumatic brain injury. However, some anticonvulsants can also be used to treat neurological pain as well as bipolar disorder
 
@@ -31,7 +31,7 @@ Some anticonvulsants include:
 * Gabapentin (Neurontin)
 * Primidone (Mysoline)
 
-## Antiarrhythmic Agents 
+## Antiarrhythmic Agents (Heart)
 
 These are a group of medicines that are used in the treatment of cardiac arrhythmias (abnormal heart rates or rhythms). Cardiac arrhythmias occur when there is a disturbance in the electrical conductivity of the heart. Causes are quite numerous and may include heart attacks, electrolyte disturbances, or infection.
 
