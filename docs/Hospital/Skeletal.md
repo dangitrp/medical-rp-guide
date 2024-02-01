@@ -3,6 +3,7 @@ layout: default
 title: Skeletal
 parent: Hospital Services
 ---
+# Fractures 
 
 ## Non-Displaced Fracture
 ![](https://raw.githubusercontent.com/dangitrp/medical-rp-guide/main/assets/images/fracture-nondisplaced.jpg)
@@ -11,10 +12,10 @@ The bone is boken, however both sections of the bone are still aligned and once 
 
 - Provide pain medication as needed
 - Ice for swelling and pain management
-- then (if possible) cast the limb
-  - Spine, Skull, Ribs are non castable.
-  - Ribs will heal over time on their own,
-  - Spine and Skull will require fixation.
+- If possible, place the limb in a cast
+  - Spine and Skull are non castable and may require fixing
+  - Ribs are non castable and will heal over time on their own
+- Apply UV Curing to the cast if needed with /e weld
 
 ## Displaced Fracture - Non-Skull
 ![](https://raw.githubusercontent.com/dangitrp/medical-rp-guide/main/assets/images/fracture-displaced.jpg)
