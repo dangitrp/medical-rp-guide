@@ -6,7 +6,7 @@ nav_order: 1
 
 # The Medical Roleplayer's Guidebook
 
-This guide is designed to help medical roleplayers in games such as Grand Theft Auto 5 (FiveM) and others learn about medical roleplay and hone in their skill to create an amazing experience for both the patient and themselves. The goal of this guide is to provide a simple framework of how to treat different kinds of injuries and to help build confidence for those who may have never played as a medical staffer.
+This guide is designed to help beginner medical roleplayers in games such as Grand Theft Auto 5 (FiveM) and others learn about medical roleplay and hone in their skill to create an amazing experience for both the patient and themselves. The goal of this guide is to provide a simple framework of how to treat different kinds of injuries and to help build confidence for those who may have never played as a medical staffer.
 
 ## Ambulatory
 
