@@ -35,7 +35,9 @@ As this is roleplay, always remember to **suspend your disbelief (become more gu
 <tr><td>
 <a href="/docs/General/Medication.html"><figure class="image"> <img src="https://raw.githubusercontent.com/dangitrp/medical-rp-guide/main/assets/images/pills.jpg"></figure></a>
 </td><td>
-<figure class="image"><img src="https://raw.githubusercontent.com/dangitrp/medical-rp-guide/main/assets/images/hospital.jpg"></figure></td><td><figure class="image"><img src="https://raw.githubusercontent.com/dangitrp/medical-rp-guide/main/assets/images/hospital.jpg"></figure>
+
+</td><td>
+
 </td></tr>
 </tbody>
 </table>
