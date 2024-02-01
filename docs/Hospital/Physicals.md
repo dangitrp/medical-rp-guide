@@ -42,25 +42,33 @@ Fill out an ICE Contacts log, making sure you gather this information
   - Gather Vitals
     - Check BP
     - Check heart rate
+    - Check blood oxygen levels (95-99 perfect, <95 concerning)
 
 ### Drug Test:
 
 - Urine sample - walk to bathroom
 - /OOC to find results
 
-Physical Fitness test:  
-Check resting heart rate before beginning (can do this after taking vitals above)  
-20 jumping jacks  
-20 situps  
-20 pushups  
-Run 2 laps around upper garage parking lot  
-Note: pick 3 of 4 physical activities  
-Check PT after, heart rate, shortness of breath, etc
+### Physical Fitness test:
 
-Note all findings in a Medical Record.  
-Format: lastname, firstname - PD physical.  
-Add tag - Physicals  
-If Patient passed, tell them they passed.  
-If Patient fails in any capacity, PD command needs to be informed of PT name, Do not break Hipaa Laws
+- Move the patient to the physical therapy gym
+- Have the patient perform a series of physical tasks such as:
+  - 20 jumping jacks  
+  - 20 situps  
+  - 20 pushups  
+  - Run 2 laps around upper garage parking lot  
+- Check the patient post-physical exertion
+  - Heart Rate
+  - Oxygen Levels
+  - Labored breathing
+  - etc.
+
+### Notation
+
+- Do /OOC to see if there are any other concerns that should be notated
+- Once complete, you should be able to send the patient on their way
+- You can ask the patient if they would like a copy of the record sent to them
+- Take a few moments to chart the physical and results into your medical records system
+- Send the document to the patient if requested.
 
 Credit to the editor of \[this document\](https://docs.google.com/document/d/11zW7zXzATA4GWIDrm1GYuhR4NlmCa_UbahTf7LjYIvk/edit)
