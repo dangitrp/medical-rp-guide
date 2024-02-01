@@ -1,13 +1,12 @@
 title: Medical Roleplay Guidebook
 description: A guidebook for medical roleplayers in the GTA 5 universe
-color_scheme: dark
 theme: just-the-docs
 logo: "/assets/images/logo.jpg"
-
+color_scheme: dark
 url: https://medrp.agrra.net
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Guide Repository: https://github.com/dangitrp/medical-rp-guide
 
 plugins:
   - jekyll-default-layout
