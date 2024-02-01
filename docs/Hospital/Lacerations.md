@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Skeletal
+title: Lacerations (Stabs)
 parent: Hospital Services
 ---

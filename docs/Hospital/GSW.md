@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Skeletal
+title: Gun Shot Wounds (GSW)
 parent: Hospital Services
 ---

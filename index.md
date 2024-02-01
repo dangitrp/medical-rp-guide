@@ -1,7 +1,7 @@
 ---
 title: Home
 layout: home
-nav\_order: 1
+nav_order: 1
 ---
 
 # The Medical Roleplayer's Guidebook
