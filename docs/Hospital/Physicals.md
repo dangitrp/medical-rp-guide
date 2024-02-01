@@ -71,4 +71,4 @@ Fill out an ICE Contacts log, making sure you gather this information
 - Take a few moments to chart the physical and results into your medical records system
 - Send the document to the patient if requested.
 
-Credit to the editor of \[this document\](https://docs.google.com/document/d/11zW7zXzATA4GWIDrm1GYuhR4NlmCa_UbahTf7LjYIvk/edit)
+Credit to the editor of [this document](https://docs.google.com/document/d/11zW7zXzATA4GWIDrm1GYuhR4NlmCa_UbahTf7LjYIvk/edit)
