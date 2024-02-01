@@ -6,25 +6,25 @@ parent: Hospital Services
 
 # Burns
 
-## 1st Degree
+## 1st Degree - Superficial
 
 Description
 
 - Simple Treatment Plan
 
-## 2nd Degree
+## 2nd Degree - Some Blisters
 
 Description
 
 - Simple Treatment Plan
 
-## 3rd Degree
+## 3rd Degree - Destroyed Skin
 
 Description
 
 - Simple Treatment Plan
 
-## 4th Degree
+## 4th Degree - Past Skin, Into Muscles/Bone
 
 Description
 
