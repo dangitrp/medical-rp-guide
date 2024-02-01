@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Burns
-nav\_order: 3
-has\_children: false
+parent: Hospital
 ---
 
 # Burns
