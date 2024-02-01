@@ -16,8 +16,8 @@ The bone is boken, however both sections of the bone are still aligned and once 
   - Ribs will heal over time on their own,
   - Spine and Skull will require fixation.
 
- ## Displaced Fracture
- ![](https://raw.githubusercontent.com/dangitrp/medical-rp-guide/main/assets/images/fracture-displaced.jpg)
+## Displaced Fracture
+![](https://raw.githubusercontent.com/dangitrp/medical-rp-guide/main/assets/images/fracture-displaced.jpg)
 
 The bone is boken, sections of the bone are no longer aligned and before proper healing can occur the bones must be aligned
 
