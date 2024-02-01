@@ -6,7 +6,7 @@ nav_order: 1
 
 # The Medical Roleplayer's Guidebook
 
-This guide is designed to help beginner medical roleplayers in games such as Grand Theft Auto 5 (FiveM) and others learn about medical roleplay and hone in their skill to create an amazing experience for both the patient and themselves. 
+This guide is designed to help beginner medical roleplayers with zero knowledge learn about medical roleplay and hone in their skill to create an amazing experience for both the patient and themselves in games such as Grand Theft Auto 5 (FiveM) and others. 
 
 The goal of this guide is to provide a simple framework of how to treat different kinds of injuries and to help build confidence for those who may have never played as a medical staffer.
 
@@ -41,3 +41,9 @@ As this is roleplay, always remember to **suspend your disbelief (become more gu
 </td></tr>
 </tbody>
 </table>
+
+## Contributions
+
+For those who would like to make contribuitons to this guide, the plan with this is to keep the documents under Hospital and Ambulatory Services at an extremely basic level. Don't stress too much about a specific name of a medication. Simply stating "Push an antibiotic through an IV" or "Administer a local anasthetic" or "Apply antibiotic ointment" is perfectly acceptable.
+
+For more advanced topics, feel free to include information under General Medical that you think may be beneficial for a medical roleplayer to know.
