@@ -31,10 +31,10 @@ The bone is boken, sections of the bone are no longer aligned and before proper 
   - Surgical
      - Anesthetize the Patient and Intubate or do a Local Nerve block to limb if possible with o2 mask
      - Large enough incision to gain access to affected area
-     - Saline and Bacitrcin to flush and loose debri
+     - Saline and Bacitrcin to flush loose debri
      - Suction to clear surgical area
      - Align Fragments and fixate - This may include plates, screws, pins, rods to imobilize fragments
-     - Saline and Bacitrcin to flush and loose debri
+     - Saline and Bacitrcin to flush loose debri
      - Suctionn to clear surgical area
      - Close surgical site, apply ointment, cover with clean/sterile guaze
 - then (if possible) cast the limb - For Surgical procedures make the cast removable for wound care
