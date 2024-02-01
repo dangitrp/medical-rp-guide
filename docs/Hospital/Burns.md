@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Burns
-parent: Hospital
+parent: Hospital Services
 ---
 
 # Burns
