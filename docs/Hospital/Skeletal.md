@@ -48,7 +48,7 @@ The bone is boken, sections of the bone are no longer aligned and before proper 
 The integrity of the skull has been compromised
 
 - Pain management
-- Evaluate if you can set the skull requires surgery
+- Evaluate if the skull requires surgery
   - Non-Surgical (Linear Skull Fracture-No Movement of bone)
      - Confirmed with imaging no bone movement and either of the following
        - If no brain swelling, bleeding, etc seen continue this treatment course
