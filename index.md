@@ -21,21 +21,21 @@ As this is roleplay, always remember to **suspend your disbelief (become more gu
 <tr><td>
 <a href="/docs/Hospital/Burns.html"><figure class="image"> <img src="https://raw.githubusercontent.com/dangitrp/medical-rp-guide/main/assets/images/fire.jpg"></figure></a>
 </td><td>
-<a href="/docs/Hospital/GSW.html"><figure class="image"> <img src="https://raw.githubusercontent.com/dangitrp/medical-rp-guide/main/assets/images/gsw.jpg"></figure></a>
+<a href="/docs/Hospital/Drowning.html"><figure class="image"> <img src="https://raw.githubusercontent.com/dangitrp/medical-rp-guide/main/assets/images/drowning.jpg"></figure></a>
 </td><td>
-<a href="/docs/Hospital/Lacerations.html"><figure class="image"> <img src="https://raw.githubusercontent.com/dangitrp/medical-rp-guide/main/assets/images/stab.jpg"></figure></a>
+<a href="/docs/Hospital/GSW.html"><figure class="image"> <img src="https://raw.githubusercontent.com/dangitrp/medical-rp-guide/main/assets/images/gsw.jpg"></figure></a>
 </td></tr>
 <tr><td>
+<a href="/docs/Hospital/Lacerations.html"><figure class="image"> <img src="https://raw.githubusercontent.com/dangitrp/medical-rp-guide/main/assets/images/stab.jpg"></figure></a>
+</td><td>
 <a href="/docs/Hospital/Neurological.html"><figure class="image"> <img src="https://raw.githubusercontent.com/dangitrp/medical-rp-guide/main/assets/images/neuro.jpg"></figure></a>
 </td><td>
 <a href="/docs/Hospital/Physicals.html"><figure class="image"><img src="https://raw.githubusercontent.com/dangitrp/medical-rp-guide/main/assets/images/hospital.jpg"></figure></a>
-</td><td>
-<a href="/docs/Hospital/Skeletal.html"><figure class="image"> <img src="https://raw.githubusercontent.com/dangitrp/medical-rp-guide/main/assets/images/skeletal.jpg"></figure></a>
 </td></tr>
 <tr><td>
-<a href="/docs/General/Medication.html"><figure class="image"> <img src="https://raw.githubusercontent.com/dangitrp/medical-rp-guide/main/assets/images/pills.jpg"></figure></a>
+<a href="/docs/Hospital/Skeletal.html"><figure class="image"> <img src="https://raw.githubusercontent.com/dangitrp/medical-rp-guide/main/assets/images/skeletal.jpg"></figure></a>
 </td><td>
-
+<a href="/docs/General/Medication.html"><figure class="image"> <img src="https://raw.githubusercontent.com/dangitrp/medical-rp-guide/main/assets/images/pills.jpg"></figure></a>
 </td><td>
 <a href="/docs/Hospital/Paranormal.html"><figure class="image"> <img src="https://raw.githubusercontent.com/dangitrp/medical-rp-guide/main/assets/images/paranormal.jpg"></figure></a>
 </td></tr>
