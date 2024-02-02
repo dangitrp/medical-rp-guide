@@ -38,7 +38,7 @@ Here are some tips to help when dealing with paranormal patients
   - Plugging in to any console port and running diagnostics
   - Taking apart nearby electronics or metal objects for parts to use in surgery
 - Cautions:
-  - Do not connect to higher than 240v electricity
+  - Do not connect to higher than 240v electricity unless otherwise noted
 
 ## Vampires
 
