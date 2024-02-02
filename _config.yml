@@ -10,3 +10,5 @@ plugins:
   - jekyll-default-layout
 
 color_scheme: dark
+
+ga_tracking: G-409CW9NX9F
