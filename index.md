@@ -76,7 +76,7 @@ For those who would like to make contribuitons to this guide, the plan with this
 - Follow the KISS Method when writing documentation (Keep it simple, stupid!)
   - Remember our primary audience is people who are new to medical roleplay and may have zero knowledge of things
   - Keep procedures basic and words simple
-  - Make sure you introduce the full description before using an acronym
+  - Make sure you introduce the full description when using an acronym
 - Try to limit the amount of clicks/scrolling needed to get to the important information
   - Staffers may be using this guide while they are trying to roleplay
 - Write the basic steps of the procedure
