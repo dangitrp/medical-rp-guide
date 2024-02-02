@@ -10,4 +10,15 @@ As this is roleplay, always remember to **suspend your disbelief (become more gu
 
 For those who would like to make contribuitons to this guide, the plan with this is to keep the documents under Hospital and Ambulatory Services at an extremely basic level. Don't stress too much about a specific name of a medication. Simply stating "Push an antibiotic through an IV" or "Administer a local anasthetic" or "Apply antibiotic ointment" is perfectly acceptable.
 
+### Expectations for Documentation
+- Follow the KISS Method when writing documentation (Keep it simple, stupid!)
+  - Remember our primary audience is people who are new to medical roleplay and may have zero knowledge of things
+  - Keep procedures basic and words simple
+  - Make sure you introduce the full description when using an acronym
+- Try to limit the amount of clicks/scrolling needed to get to the important information
+  - Staffers may be using this guide while they are trying to roleplay
+- Write the basic steps of the procedure
+- If you give a medication, describe drug class rather than a specific name (unless the injury calls for a very specific medication)
+  - "Push an antibiotic" instead of "Push Amoxicillin"
+
 For more advanced topics, feel free to include information under General Medical that you think may be beneficial for a medical roleplayer to know.
