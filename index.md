@@ -14,6 +14,32 @@ As this is roleplay, always remember to **suspend your disbelief (become more gu
 
 ## Ambulatory
 
+<table>
+<tbody>
+<tr><td>
+<a href="/docs/EMS/Burns.html"><figure class="image"> <img src="https://raw.githubusercontent.com/dangitrp/medical-rp-guide/main/assets/images/fire.jpg"></figure></a>
+</td><td>
+<a href="/docs/EMS/Drowning.html"><figure class="image"> <img src="https://raw.githubusercontent.com/dangitrp/medical-rp-guide/main/assets/images/drowning.jpg"></figure></a>
+</td><td>
+<a href="/docs/EMS/GSW.html"><figure class="image"> <img src="https://raw.githubusercontent.com/dangitrp/medical-rp-guide/main/assets/images/gsw.jpg"></figure></a>
+</td></tr>
+<tr><td>
+<a href="/docs/EMS/Lacerations.html"><figure class="image"> <img src="https://raw.githubusercontent.com/dangitrp/medical-rp-guide/main/assets/images/stab.jpg"></figure></a>
+</td><td>
+<a href="/docs/EMS/Neurological.html"><figure class="image"> <img src="https://raw.githubusercontent.com/dangitrp/medical-rp-guide/main/assets/images/neuro.jpg"></figure></a>
+</td><td>
+<a href="/docs/EMS/Skeletal.html"><figure class="image"> <img src="https://raw.githubusercontent.com/dangitrp/medical-rp-guide/main/assets/images/skeletal.jpg"></figure></a>
+</td></tr>
+<tr><td>
+
+</td><td>
+
+</td><td>
+<a href="/docs/EMS/Triage.html"><figure class="image"> <img src="https://raw.githubusercontent.com/dangitrp/medical-rp-guide/main/assets/images/triage.jpg"></figure></a>
+</td></tr>
+</tbody>
+</table>
+
 ## Hospital
 
 <table>
