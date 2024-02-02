@@ -11,4 +11,6 @@ plugins:
 
 color_scheme: dark
 
+nav_external_links_new_tab: true
+
 ga_tracking: G-409CW9NX9F
