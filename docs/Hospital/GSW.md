@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Gun Shot Wounds (GSW)
+title: Gunshot Wounds (GSW)
 parent: Hospital Services
 ---
 
