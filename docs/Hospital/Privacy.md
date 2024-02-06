@@ -8,6 +8,9 @@ parent: Hospital Services
 Information taken from [US CDC](https://www.cdc.gov/phlp/publications/topic/hipaa.html) and [US HHS](https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/index.html)
 
 ## Permitted Uses and Disclosure
+
+**When in doubt, defer the request to a higher ranking member of your team.**
+
 The law permits, but does not require, a covered entity to use and disclose PHI, without an individual’s authorization, for the following purposes or situations:
 
 - Disclosure to the individual (if the information is required for access or accounting of disclosures, the entity MUST disclose to the individual)
