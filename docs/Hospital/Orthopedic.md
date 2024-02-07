@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Skeletal
+title: Orthopedic (Bones/Fractures)
 parent: Hospital Services
 ---
 # Fractures 

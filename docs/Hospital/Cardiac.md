@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Poisoning and Narcotics
+title: Cardiac (Heart)
 parent: Hospital Services
 ---

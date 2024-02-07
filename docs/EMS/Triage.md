@@ -44,3 +44,7 @@ DOA, injuries are so bad they are already dead.
 - Too much blood loss
 
 Credit to the editor of [this document](https://docs.google.com/document/d/1FxfFOiidi2QQrY_h3WCcoTUNBPQWhqpnIKFyshHOsyM/edit)
+
+# Codes
+
+## Code Blue

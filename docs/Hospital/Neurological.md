@@ -26,3 +26,4 @@ parent: Hospital Services
 - Increased Rest
 - Ease back into activities
 - Tylenol for headache (24 hours), shift to Ibuprofen after 24 hours
+- Encourage the patient to avoid stimulants (caffeine, alcohol, etc.) as they can make symptoms worse

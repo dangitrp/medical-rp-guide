@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Poisoning and Narcotics
+title: Gastro-Intestinal (Abdomen / Intestines)
 parent: Hospital Services
 ---

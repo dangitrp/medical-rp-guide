@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Lacerations (Stabs)
+title: Lacerations (Cuts, Stabs)
 parent: Hospital Services
 ---
 # Lacerations
 
-## Stab Wounds
+## Major Cuts and Stab Wounds
 
 - Take the patient into the OR
 - Check Vitals
