@@ -45,7 +45,8 @@ DOA, injuries are so bad they are already dead.
 
 Credit to the editor of [this document](https://docs.google.com/document/d/1FxfFOiidi2QQrY_h3WCcoTUNBPQWhqpnIKFyshHOsyM/edit)
 
-# Codes
+# Codes and Alerts
+Code Blue is the only recommended color code to be used with alerts. Plain Language Alerts have been recommended by multiple states to replace them.
 
 ## Code Blue
 No Pulse and No Breathing - Only after establishing the airway is clear and the patient is not breathing and has no pulse would you then start CPR as long as there is no open chest wound. 
