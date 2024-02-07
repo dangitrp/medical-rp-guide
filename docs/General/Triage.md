@@ -48,3 +48,13 @@ Credit to the editor of [this document](https://docs.google.com/document/d/1FxfF
 # Codes
 
 ## Code Blue
+No Pulse and No Breathing - Only after establishing the airway is clear and the patient is not breathing and has no pulse would you then start CPR as long as there is no open chest wound. 
+- Remove clothing to allow access to the patient's chest (ensure it is dry)
+- Turn on the AED and attach the pads
+- Allow the machine to analyze the patient for a shockable rhythm
+  - If no shockable rhythm, continue PR
+  - If shockable rhythm detected, start the AED
+- The AED will automatically deliver the appropriate energy levels for each shock. 
+- After three attempts to shock the patient, transport to the hospital while continuing to do CPR if able.
+
+Credit to the editor of [this document](https://docs.google.com/document/d/1FxfFOiidi2QQrY_h3WCcoTUNBPQWhqpnIKFyshHOsyM/edit)
