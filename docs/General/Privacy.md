@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Patient Privacy
-parent: Hospital Services
+parent: General Medical
 ---
 
 # HIPAA

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Triage
-parent: Emergency Medical Services / Ambulatory Services
+parent: General Medical
 ---
 
 # Triage
