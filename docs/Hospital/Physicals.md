@@ -25,12 +25,19 @@ Fill out an ICE Contacts log, making sure you gather this information
 - Weight (scale in dr office)
 - Height (from pt)
 
-### Eye exam:
+### Eye Exam:
 
 - Have the patient stand on the opposite side of the room from the eye chart
 - Have the patient read out the lines
 - They must pass Line 8 for this to be considered a Pass
   - Can add covering an eye for more RP flair
+
+### Ear Exam
+
+- Place some headphones on the patient
+- Turn on a tone generator so they hear a constant beep sound [(starting at about 1.5KHz)](https://www.youtube.com/watch?v=1iE_Kf3i6Ok)
+- Slowly turn up the tone generator until they can't hear it anymore (usually around [12KHz](https://www.youtube.com/watch?v=5lOOpD1sIo8)-[15KHz](https://www.youtube.com/watch?v=6r6fzAa9ylU))
+- Ears will be considered passing if they can perceive [8KHz](https://www.youtube.com/watch?v=K224PdHB3p8)
 
 ### Heart and lung check:
 
