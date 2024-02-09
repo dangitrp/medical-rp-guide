@@ -10,9 +10,9 @@ parent: General Medical
 These are pain relievers and fever reducers. For our use they will be broken down into two sub-categories: Non-narcotic analgesics for minor to moderate pain, and narcotic analgesic for severe pain.
 
 ### Mild Pain (Non-Narcotic, Pain 1-3)
-* Acetaminophen (Tylenol)
-* Ibuprofen (Motrin)
-* Naproxen (Aleve)
+* Acetaminophen/Paracetamol (Tylenol) (Non-NSAID)
+* Ibuprofen (Motrin) (NSAID)
+* Naproxen (Aleve) (NSAID)
 
 ### Moderate Pain (Pain 4-6)
 * Tramadol (Ultram)
