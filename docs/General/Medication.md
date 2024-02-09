@@ -64,22 +64,22 @@ Used to treat fungal infections, such as Athlete’s Foot, or Ringworm
 ## Cardiovascular
 
 ### Hypertension
-Also known as high blood pressure,
+High blood pressure
 * Nitroglycerin
 
 ### Hypotension
-Also known as low blood pressure,
+Low blood pressure
 * Fludrocortisone (Florinef)
 
 ### Cardiac Arrest
 * Epinephrine (Adrenaline)
 
 ### Tachycardia
-Also known as high heart rate, tachycardia occurs when the heart rate is above 100 bpm.
+High heart rate, tachycardia occurs when the heart rate is above 100 bpm.
 * Diltiazem (Cardizem)
 
 ### Bradycardia
-Also known as low heart rate, bradycardia occurs when the heart rate is below 60 bpm.
+Low heart rate, bradycardia occurs when the heart rate is below 60 bpm.
 * Epinephrine (Adrenaline)
 
 ### Coagulant
