@@ -167,6 +167,6 @@ Medications that relax and open the airway
 Medications that treat the inflammation in the lungs that cause breathing problems
 * Fluticasone (Flovent HFA)
 
-
+---
 
 Credit to the editors of [this document](https://docs.google.com/document/d/1ok4HOy85DUhNOWWgemnFXUyxKjNPYInP4Xon4X1iJAw/edit) and [this document](https://docs.google.com/document/u/0/d/1gAc0-qG2QlPlSqcqX_BX9GebvQLgZYxcJ4nqyE_qqL0/mobilebasic#heading=h.4jplb123saea)
