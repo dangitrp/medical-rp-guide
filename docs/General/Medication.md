@@ -91,7 +91,6 @@ A patient on blood thinners will likely have more severe injuries in subsequent 
   * Used in the hospital only to reduce any further formation of blood clots or reduce risk of forming blood clots anywhere in the body
 
 ## Diuretics
-
 Also called “water pills”, these are a class of drugs that help to rid your body of sodium, and water.They do so by helping your kidneys release more sodium into the urine, which in turn removes excess water from your bloodstream. This decreases the amount of fluid flowing through your veins and arteries, lowering your blood pressure.
 
 Some diuretics include:
@@ -112,7 +111,6 @@ Some diuretics include:
 ## Neurological
 
 ### Anticonvulsants (Seizures)
-
 These help to normalize the way nerve impulses travel along the nerve cells which helps prevent or treat seizures. When the brain is working normally the nerve cells talk to each other using controlled electrical signals from one nerve cell to another. This tells the body to do everything it needs or wants to do. During a seizure there is a change in the level of nerve cell electrical signals from a normal level to an excessive or abnormal amount of nerve signals. This increased nerve activity is responsible for the signs and symptoms of a seizure. There are many conditions that can trigger a seizure, and the situation you may be faced with most would be due to a traumatic brain injury. However, some anticonvulsants can also be used to treat neurological pain as well as bipolar disorder
 
 Some anticonvulsants include:
