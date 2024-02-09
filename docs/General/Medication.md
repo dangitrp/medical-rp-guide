@@ -9,15 +9,20 @@ parent: General Medical
 
 These are pain relievers and fever reducers. For our use they will be broken down into two sub-categories: Non-narcotic analgesics for minor to moderate pain, and narcotic analgesic for severe pain.
 
-Some non-narcotic analgesics include:
+### Mild Pain (Non-Narcotic, Pain 1-3)
 * Acetaminophen (Tylenol)
 * Ibuprofen (Motrin)
 * Naproxen (Aleve)
 
-Some narcotic analgesics include:
+### Moderate Pain (Pain 4-6)
 * Tramadol (Ultram)
+* Acetaminophen-Codeine (Tylenol-3/Vopac)
 * Oxycodone-Acetaminophen (Percocet)
 * Hydrocodone-Acetaminophen (Vicodin)
+
+### Severe Pain (7-10)
+* Morphine
+* Hydromorphone (Dilaudid)
 
 Use your judgment when determining the pain level of the patient, and always err on the side of caution when a patient comes in and immediately asks for narcotics. It will happen more than you might be prepared for.
 
