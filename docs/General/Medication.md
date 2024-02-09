@@ -20,7 +20,9 @@ Some narcotic analgesics include:
 * Hydrocodone-Acetaminophen (Vicodin)
 
 Use your judgment when determining the pain level of the patient, and always err on the side of caution when a patient comes in and immediately asks for narcotics. It will happen more than you might be prepared for.
+
 ---
+
 ## Anesthetics
 
  General Anesthetics include:
@@ -29,7 +31,9 @@ Use your judgment when determining the pain level of the patient, and always err
  
  Local Anesthetics include: 
  * Lidocaine
+
 ---
+
 ## Anti-infectives
 
 These are a rather broad class of drugs that either kill an infectious agent within the body or prevent it from spreading. The type of drug called for in treatment depends on what type of infection is present in the host. These include antibiotics, antivirals, antifungals, and antiprotozoals. For our usage, antiprotozoals won't be necessary unless Los Santos is faced with a Malaria outbreak or African Trypanosomiasis (sleeping sickness) so this was just added here for your own knowledge.I will break down each into groups of two as each drug you choose for treatment should have at least one alternative, especially regarding antibiotics with the prevalence of penicillin allergy in the population.
@@ -54,7 +58,9 @@ Used to treat fungal infections, such as Athlete’s Foot, or Ringworm
 * Voriconazole (Vfend)
 * Clotrimazole (Lotrimin)
 * Terbinafine (Lamisil)
+
 ---
+
 ## Cardiovascular
 
 ### Hypertension
@@ -89,7 +95,9 @@ A patient on blood thinners will likely have more severe injuries in subsequent 
   * Does not require follow-ups
 * Heparin
   * Used in the hospital only to reduce any further formation of blood clots or reduce risk of forming blood clots anywhere in the body
+
 ---
+
 ## Diuretics
 Also called “water pills”, these are a class of drugs that help to rid your body of sodium, and water.They do so by helping your kidneys release more sodium into the urine, which in turn removes excess water from your bloodstream. This decreases the amount of fluid flowing through your veins and arteries, lowering your blood pressure.
 
@@ -101,13 +109,17 @@ Some diuretics include:
 * Spironolactone (Aldactone)
 * Acetazolamide (Diamox)
 * Hydrochlorothiazide (Microzide)
+
 ---
+
 ## Gastro-Intestinal
 
 ### Antiemetics (Anti-Nausea)
 * Lorazepam (Ativan)
   * Used in this case as a 3rd line option in the hospital to treat nausea and vomiting, but also is a benzodiazepine with numerous other effects and is addictive.
+
 ---
+
 ## Neurological
 
 ### Anticonvulsants (Seizures)
@@ -127,7 +139,9 @@ Drugs that lower anxiety by calming the electrical activity in the brain.
 ### Migraine and Cluster Headache Medications
 Treats intense migraines or cluster headaches. Work particularly well if caught early.
 * Sumatriptan (Imitrex)
+
 ---
+
 ## Poison Control
 
 ### Opiod Overdose
@@ -137,7 +151,9 @@ Treats overdose caused by opioids / narcotics.
 ### Poisoning
 Used for suspected poisonings; encourages emesis (vomiting) as well preventing the stomach from absorbing the poison into the body.
 * Activated Charcoal
+
 ---
+
 ## Respiratory
 
 ### Antihistamines
