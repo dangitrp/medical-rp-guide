@@ -5,6 +5,10 @@ parent: General Medical
 ---
 
 # Medication Classes and Examples
+
+{: .note }
+There is no expectation to know specific drugs. This list is just to help learn drug classes and potentially use drug names if you would like to increase your roleplay abilities.
+
 ## Analgesics (Pain Killers)
 
 These are pain relievers and fever reducers. For our use they will be broken down into two sub-categories: Non-narcotic analgesics for minor to moderate pain, and narcotic analgesic for severe pain.
