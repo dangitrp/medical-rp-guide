@@ -49,11 +49,19 @@ Credit to the editor of [this document](https://docs.google.com/document/d/1FxfF
 Code Blue is the only recommended color code to be used with alerts. Plain Language Alerts have been recommended by multiple states to replace them.
 
 ## Code Blue
-No Pulse and No Breathing - Only after establishing the airway is clear and the patient is not breathing and has no pulse would you then start CPR as long as there is no open chest wound. 
-- Remove clothing to allow access to the patient's chest (ensure it is dry)
+No Pulse and No Breathing
+
+- Establish the criteria for a code blue
+  - Airway is clear
+  - Patient has no pulse
+  - Patient is not breathing
+  - No open chest wound
+- Start CPR
+- Remove clothing to allow access to chest
+  - Ensure it is dry
 - Turn on the AED and attach the pads
 - Allow the machine to analyze the patient for a shockable rhythm
-  - If no shockable rhythm, continue PR
+  - If no shockable rhythm, continue CPR
   - If shockable rhythm detected, start the AED
 - The AED will automatically deliver the appropriate energy levels for each shock. 
 - After three attempts to shock the patient, transport to the hospital while continuing to do CPR if able.
