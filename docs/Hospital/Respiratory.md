@@ -19,6 +19,7 @@ parent: Hospital Services
   - Cough, labored breathing (Pnemonia)
 - Follow the associated guide
 
+---
 
 ### Wheezing
 
@@ -28,12 +29,16 @@ parent: Hospital Services
 - Suggest asthma related health plans
 - Discharge
 
+---
+
 ### Fluid in Lungs
 
 - Raise the head of the bed to help reduce fluid buildup
 - Administer Diuretic medication
 - Monitor vitals
 - Continue any other treatment
+
+---
 
 ### Bronchitis
 
@@ -47,6 +52,8 @@ parent: Hospital Services
   - Rest
   - Medication
 
+---
+
 ### Upper Airway Obstruction
 
 - Lift head and chin and examine airway
@@ -55,6 +62,8 @@ parent: Hospital Services
 - Administer oxygen once airway is clear
 - Monitor vitals
 - Discharge when recovered
+
+---
 
 ### Collapsed Lung
 
@@ -69,7 +78,9 @@ parent: Hospital Services
 - Pain medication may be needed for chest pain
 - Discharge
 
-## Pneumonia
+---
+
+### Pneumonia
 Symptoms: Cough, Difficulty Breathing, Chest Pain, Fever, Fatigue
 
 - Conduct an Xray
