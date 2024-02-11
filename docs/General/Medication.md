@@ -41,8 +41,6 @@ Use your judgment when determining the pain level of the patient, and always err
 
 ## Anti-infectives
 
-These are a rather broad class of drugs that either kill an infectious agent within the body or prevent it from spreading. The type of drug called for in treatment depends on what type of infection is present in the host. These include antibiotics, antivirals, antifungals, and antiprotozoals. For our usage, antiprotozoals won't be necessary unless Los Santos is faced with a Malaria outbreak or African Trypanosomiasis (sleeping sickness) so this was just added here for your own knowledge.I will break down each into groups of two as each drug you choose for treatment should have at least one alternative, especially regarding antibiotics with the prevalence of penicillin allergy in the population.
-
 ### Antibiotics
 Used for bacterial infection, such as meningitis, appendicitis, or common UTI (Urinary Tract Infection)
 
