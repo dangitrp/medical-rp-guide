@@ -6,7 +6,7 @@ parent: General Medical
 
 # Medication Classes and Examples
 
-{: .note }
+{: .highlight }
 There is no expectation to know specific drugs. This list is just to help learn drug classes and potentially use drug names if you would like to increase your roleplay abilities.
 
 ## Analgesics (Pain Killers)
