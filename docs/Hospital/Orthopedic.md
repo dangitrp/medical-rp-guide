@@ -6,8 +6,6 @@ parent: Hospital Services
 # Fractures 
 
 ## Non-Displaced Fracture
-![](https://raw.githubusercontent.com/dangitrp/medical-rp-guide/main/assets/images/fracture-nondisplaced.jpg)
-
 The bone is boken, however both sections of the bone are still aligned and once healed does not inhibity the function of the limb or area of the body.
 
 - Provide pain medication as needed
@@ -17,9 +15,9 @@ The bone is boken, however both sections of the bone are still aligned and once 
   - Ribs are non castable and will heal over time on their own
 - Apply UV Curing to the cast if needed with /e weld
 
-## Displaced Fracture - Non-Skull
-![](https://raw.githubusercontent.com/dangitrp/medical-rp-guide/main/assets/images/fracture-displaced.jpg)
+---
 
+## Displaced Fracture - Non-Skull
 The bone is boken, sections of the bone are no longer aligned and before proper healing can occur the bones must be aligned
 
 - Provide pain medication as needed
@@ -43,9 +41,9 @@ The bone is boken, sections of the bone are no longer aligned and before proper 
   - Ribs will heal over time on their own, 
   - Spine will require fixation.
 
-## Skull Fracture
-![](https://raw.githubusercontent.com/dangitrp/medical-rp-guide/main/assets/images/skull-fracture.jpg)
+---
 
+## Skull Fracture
 The integrity of the skull has been compromised
 
 - Pain management
