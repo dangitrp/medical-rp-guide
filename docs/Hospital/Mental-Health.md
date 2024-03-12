@@ -41,6 +41,8 @@ Prior to diagnosis, reach out to the player OOC to determine how they would like
 - Medication
 - Continued sessions (potential character development)
 
+---
+
 ### Anxiety Disorders
 
 #### Symptoms
@@ -63,6 +65,8 @@ Prior to diagnosis, reach out to the player OOC to determine how they would like
   - Selective serotonin reuptake inhibitors - SSRIs
   - Serotonin-norepinephrine reuptake inhibitors - SNRIs
 
+---
+
 ### Bipolar Disorder
 
 #### Symptoms
@@ -84,6 +88,8 @@ Prior to diagnosis, reach out to the player OOC to determine how they would like
   - Olanzapine
   - Quetiapine
 
+---
+
 ### Depression
 
 #### Symptoms
@@ -104,6 +110,8 @@ Prior to diagnosis, reach out to the player OOC to determine how they would like
   - Selective serotonin reuptake inhibitors - SSRIs
   - Serotonin-norepinephrine reuptake inhibitors - SNRIs
   - Tricyclic antidepressants - TCAs
+
+---
 
 ### Dissociative Identity Disorder
 
@@ -134,6 +142,8 @@ Prior to diagnosis, reach out to the player OOC to determine how they would like
   - Valproate
 - Sleep Aid
 
+---
+
 ### Eating Disorders
 
 #### Symptoms:
@@ -145,6 +155,8 @@ Prior to diagnosis, reach out to the player OOC to determine how they would like
 - Binge eating or purging behaviors
 - Significant weight changes
 - Physical signs such as fatigue, dizziness, or changes in skin and hair.
+
+---
 
 ### Obsessive-Compulsive Disorder (OCD)
 
@@ -165,12 +177,16 @@ Prior to diagnosis, reach out to the player OOC to determine how they would like
   - Benzodiazepines
 - Antipsychotics
 
+---
+
 ### Personality Disorders
 
 #### Symptoms:
 {: .no_toc }
 
 - Persistent patterns of behavior, cognition, and inner experience that deviate markedly from cultural expectations, leading to impaired functioning and distress for the individual.
+
+---
 
 ### Post-Traumatic Stress Disorder (PTSD)
 
@@ -190,6 +206,8 @@ Prior to diagnosis, reach out to the player OOC to determine how they would like
   - Selective serotonin reuptake inhibitors - SSRIs
   - Serotonin-norepinephrine reuptake inhibitors - SNRIs
 
+---
+
 ### Schizophrenia Spectrum Disorders
 
 #### Symptoms:
@@ -207,6 +225,8 @@ Prior to diagnosis, reach out to the player OOC to determine how they would like
 
 - Antipsychotic medications (typical or atypical) to manage psychotic symptoms.
 
+---
+
 ### Substance Use Disorders
 
 #### Symptoms:
@@ -223,6 +243,8 @@ Prior to diagnosis, reach out to the player OOC to determine how they would like
 
 - Benzodiazepines for alcohol withdrawl
 - Methadone or Buprenorphine for opioid use disorder
+
+---
 
 ### Suicidal Ideation or Self-Harm
 {: .highlight }
