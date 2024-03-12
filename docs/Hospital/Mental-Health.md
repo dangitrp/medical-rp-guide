@@ -40,6 +40,7 @@ Prior to diagnosis, reach out to the player OOC to determine how they would like
 - Documentation of a diagnosis
 - Medication
 - Continued sessions (potential character development)
+- Work Clearance
 
 ### General Psychiatric Exam
 This can be generally used if a patient is coming in to voluntarily receive a psychiatric exam to get cleared for work.
