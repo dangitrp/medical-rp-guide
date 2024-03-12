@@ -15,14 +15,14 @@ It is very possible OOC mental health issues of a player can cross the lines to 
 - For emergency help 
   - Call 911.
 - For suicidal thoughts and behavior 
-  - dial 988 for the [Suicide & Crisis Lifeline](https://988lifeline.org/). 
+  - Dial 988 for the [Suicide & Crisis Lifeline](https://988lifeline.org/). 
   - You can also reach them at 1-800-273-TALK (1-800-273-8255).
 - For mental health issues after a disaster 
-  - contact the [Disaster Distress Helpline](https://www.samhsa.gov/find-help/disaster-distress-helpline) at 1-800-985-5990.
+  - Contact the [Disaster Distress Helpline](https://www.samhsa.gov/find-help/disaster-distress-helpline) at 1-800-985-5990.
 - For veterans experiencing a crisis 
-  - contact the [Veterans Crisis Line](https://www.veteranscrisisline.net/) at 988 (then press 1).
+  - Contact the [Veterans Crisis Line](https://www.veteranscrisisline.net/) at 988 (then press 1).
 - For people experiencing domestic violence 
-  - contact the [National Domestic Violence Hotline](https://www.thehotline.org/) at 1-800-799-7233.
+  - Contact the [National Domestic Violence Hotline](https://www.thehotline.org/) at 1-800-799-7233.
 
 ## Roleplay Mental Health Issues
 
