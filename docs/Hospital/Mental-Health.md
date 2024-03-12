@@ -42,6 +42,7 @@ Prior to diagnosis, reach out to the player OOC to determine how they would like
 - Continued sessions (potential character development)
 
 ### General Psychiatric Exam
+This can be generally used if a patient is coming in to voluntarily receive a psychiatric exam to get cleared for work.
 
 - General Information:
   - What is your name, age, and current occupation?
@@ -88,6 +89,16 @@ Prior to diagnosis, reach out to the player OOC to determine how they would like
 - Suicidal or Homicidal Thoughts:
   - Have you had any thoughts of hurting yourself or others?
   - Do you have a plan for self-harm or harm to others?
+
+### Issue-Specific GPT Prompt
+
+You can use the following prompt to help with generating diagnostic criteria, questions to ask, and responses to look for:
+
+```
+
+I'm about to perform a psychiatric exam on a patient while in a roleplay server. I am in the role of the doctor. They want to be assessed and diagnosed for having **INSERT MENTAL HEALTH ISSUE HERE**. List the diagnostic criteria, questions to ask, and what I should look for in their responses.
+
+```
 
 ---
 
