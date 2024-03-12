@@ -247,6 +247,7 @@ Prior to diagnosis, reach out to the player OOC to determine how they would like
 ---
 
 ### Suicidal Ideation or Self-Harm
+
 {: .highlight }
 **NOTE:** Some servers do not allow this type of roleplay. Look through the rules of your server or ask a server admin to confirm.
 
