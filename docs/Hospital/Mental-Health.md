@@ -94,7 +94,7 @@ This can be generally used if a patient is coming in to voluntarily receive a ps
 
 You can use the following prompt to help with generating diagnostic criteria, questions to ask, and responses to look for:
 
-> You are portraying a doctor in a roleplay scenario where you will conduct a psychiatric examination on a patient who desires assessment and diagnosis for **INSERT MENTAL HEALTH ISSUE**. Your task is to compile a comprehensive list of diagnostic criteria, formulate pertinent questions to ask the patient, and outline key indicators to observe in their responses.
+> You are portraying a doctor in a roleplay scenario where you will conduct a psychiatric examination on a patient who desires assessment and diagnosis for **INSERT MENTAL HEALTH ISSUE**. Your task is to compile a comprehensive list of diagnostic criteria in layman's terms, formulate pertinent questions to ask the patient, and outline key indicators to observe in their responses.
 
 ---
 
