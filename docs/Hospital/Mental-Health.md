@@ -94,11 +94,7 @@ This can be generally used if a patient is coming in to voluntarily receive a ps
 
 You can use the following prompt to help with generating diagnostic criteria, questions to ask, and responses to look for:
 
-```
-
-I'm about to perform a psychiatric exam on a patient while in a roleplay server. I am in the role of the doctor. They want to be assessed and diagnosed for having **INSERT MENTAL HEALTH ISSUE HERE**. List the diagnostic criteria, questions to ask, and what I should look for in their responses.
-
-```
+> I'm about to perform a psychiatric exam on a patient while in a roleplay server. I am in the role of the doctor. They want to be assessed and diagnosed for having **INSERT MENTAL HEALTH ISSUE HERE**. List the diagnostic criteria, questions to ask, and what I should look for in their responses.
 
 ---
 
