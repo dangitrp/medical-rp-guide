@@ -18,7 +18,7 @@ If you are wanting to engage in mental health therapy roleplay, it is encouraged
 
 ## OOC Mental Health Resources
 
-It is very possible OOC mental health issues of a player can cross the lines to an IC character. Trained professionals are available at the following resources to help with OOC issues:
+It is very possible OOC mental health issues of a player can cross the lines to an IC character. Do not attempt to treat an OOC issue. Trained professionals are available at the following resources to help with OOC issues:
 
 - For emergency help 
   - Call 911.
