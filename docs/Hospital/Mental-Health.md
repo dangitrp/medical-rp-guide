@@ -44,6 +44,8 @@ Prior to diagnosis, reach out to the player OOC to determine how they would like
 ### Anxiety Disorders:
 
 #### Symptoms
+{: .no_toc }
+
 - Excessive worry
 - Restlessness
 - Irritability
@@ -53,6 +55,8 @@ Prior to diagnosis, reach out to the player OOC to determine how they would like
 - Avoidance of certain situations or activities.
 
 #### Medication
+{: .no_toc }
+
 - Anxiolytics for short-term relief
   - Benzodiazepines
 - Antidepressants
@@ -62,6 +66,8 @@ Prior to diagnosis, reach out to the player OOC to determine how they would like
 ### Bipolar Disorder:
 
 #### Symptoms
+{: .no_toc }
+
 - Periods of elevated mood (mania or hypomania) alternating with periods of depression
 - Decreased need for sleep
 - Increased energy
@@ -69,6 +75,8 @@ Prior to diagnosis, reach out to the player OOC to determine how they would like
 - Risky behavior during manic episodes
 
 #### Medication
+{: .no_toc }
+
 - Mood stabilizers
   - Lithium
   - Valproate
@@ -79,6 +87,8 @@ Prior to diagnosis, reach out to the player OOC to determine how they would like
 ### Depression:
 
 #### Symptoms
+{: .no_toc }
+
 - Persistent low mood
 - Lack of interest or pleasure in activities
 - Changes in sleep and appetite
@@ -88,6 +98,8 @@ Prior to diagnosis, reach out to the player OOC to determine how they would like
 - Thoughts of death or suicide.
 
 #### Medication
+{: .no_toc }
+
 - Antidepressants
   - Selective serotonin reuptake inhibitors - SSRIs
   - Serotonin-norepinephrine reuptake inhibitors - SNRIs
@@ -96,6 +108,8 @@ Prior to diagnosis, reach out to the player OOC to determine how they would like
 ### Dissociative Identity Disorder
 
 #### Symptoms:
+{: .no_toc }
+
 - Amnesia or Memory Gaps
 - Identity Confusion or Alterations
 - Identity Switching
@@ -106,6 +120,8 @@ Prior to diagnosis, reach out to the player OOC to determine how they would like
 - Self-Injurious Behavior
 
 #### Medication
+{: .no_toc }
+
 - Antidepressants
   - Selective serotonin reuptake inhibitors - SSRIs
   - Serotonin-norepinephrine reuptake inhibitors - SNRIs
@@ -121,6 +137,8 @@ Prior to diagnosis, reach out to the player OOC to determine how they would like
 ### Eating Disorders:
 
 #### Symptoms:
+{: .no_toc }
+
 - Distorted body image
 - Preoccupation with food
 - Excessive exercise
@@ -131,11 +149,15 @@ Prior to diagnosis, reach out to the player OOC to determine how they would like
 ### Obsessive-Compulsive Disorder (OCD):
 
 #### Symptoms:
+{: .no_toc }
+
 - Obsessions (intrusive, unwanted thoughts)
 - Compulsions (repetitive behaviors or mental acts performed to alleviate anxiety)
 - Interference with daily activities due to these rituals.
 
 #### Medication
+{: .no_toc }
+
 - Antidepressants
   - Selective serotonin reuptake inhibitors - SSRIs
   - Tricyclic antidepressants - TCAs
@@ -146,11 +168,15 @@ Prior to diagnosis, reach out to the player OOC to determine how they would like
 ### Personality Disorders:
 
 #### Symptoms:
+{: .no_toc }
+
 - Persistent patterns of behavior, cognition, and inner experience that deviate markedly from cultural expectations, leading to impaired functioning and distress for the individual.
 
 ### Post-Traumatic Stress Disorder (PTSD):
 
 #### Symptoms:
+{: .no_toc }
+
 - Intrusive memories or flashbacks of a traumatic event
 - Avoidance of reminders of the trauma
 - Negative changes in mood and thinking
@@ -158,6 +184,8 @@ Prior to diagnosis, reach out to the player OOC to determine how they would like
 - Exaggerated startle response.
 
 #### Medication
+{: .no_toc }
+
 - Antidepressants
   - Selective serotonin reuptake inhibitors - SSRIs
   - Serotonin-norepinephrine reuptake inhibitors - SNRIs
@@ -165,6 +193,8 @@ Prior to diagnosis, reach out to the player OOC to determine how they would like
 ### Schizophrenia Spectrum Disorders:
 
 #### Symptoms:
+{: .no_toc }
+
 - Hallucinations (false sensory perceptions)
 - Delusions (false beliefs)
 - Disorganized thinking
@@ -173,11 +203,15 @@ Prior to diagnosis, reach out to the player OOC to determine how they would like
 - Impaired cognitive function.
 
 #### Medication
+{: .no_toc }
+
 - Antipsychotic medications (typical or atypical) to manage psychotic symptoms.
 
 ### Substance Use Disorders:
 
 #### Symptoms:
+{: .no_toc }
+
 - Loss of control over substance use
 - Continued use despite negative consequences
 - Craving for the substance
@@ -185,6 +219,8 @@ Prior to diagnosis, reach out to the player OOC to determine how they would like
 - Withdrawal symptoms.
 
 #### Medication
+{: .no_toc }
+
 - Benzodiazepines for alcohol withdrawl
 - Methadone or Buprenorphine for opioid use disorder
 
@@ -193,6 +229,8 @@ Prior to diagnosis, reach out to the player OOC to determine how they would like
 **NOTE:** Some servers do not allow this type of roleplay. Look through the rules of your server or ask a server admin to confirm.
 
 #### Symptoms:
+{: .no_toc }
+
 - Expressing thoughts of self-harm or suicide
 - Creating a plan
 - Obtaining the means to carry out self-harm
