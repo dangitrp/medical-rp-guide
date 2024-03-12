@@ -41,7 +41,7 @@ Prior to diagnosis, reach out to the player OOC to determine how they would like
 - Medication
 - Continued sessions (potential character development)
 
-### Anxiety Disorders:
+### Anxiety Disorders
 
 #### Symptoms
 {: .no_toc }
@@ -63,7 +63,7 @@ Prior to diagnosis, reach out to the player OOC to determine how they would like
   - Selective serotonin reuptake inhibitors - SSRIs
   - Serotonin-norepinephrine reuptake inhibitors - SNRIs
 
-### Bipolar Disorder:
+### Bipolar Disorder
 
 #### Symptoms
 {: .no_toc }
@@ -84,7 +84,7 @@ Prior to diagnosis, reach out to the player OOC to determine how they would like
   - Olanzapine
   - Quetiapine
 
-### Depression:
+### Depression
 
 #### Symptoms
 {: .no_toc }
@@ -134,7 +134,7 @@ Prior to diagnosis, reach out to the player OOC to determine how they would like
   - Valproate
 - Sleep Aid
 
-### Eating Disorders:
+### Eating Disorders
 
 #### Symptoms:
 {: .no_toc }
@@ -146,7 +146,7 @@ Prior to diagnosis, reach out to the player OOC to determine how they would like
 - Significant weight changes
 - Physical signs such as fatigue, dizziness, or changes in skin and hair.
 
-### Obsessive-Compulsive Disorder (OCD):
+### Obsessive-Compulsive Disorder (OCD)
 
 #### Symptoms:
 {: .no_toc }
@@ -165,14 +165,14 @@ Prior to diagnosis, reach out to the player OOC to determine how they would like
   - Benzodiazepines
 - Antipsychotics
 
-### Personality Disorders:
+### Personality Disorders
 
 #### Symptoms:
 {: .no_toc }
 
 - Persistent patterns of behavior, cognition, and inner experience that deviate markedly from cultural expectations, leading to impaired functioning and distress for the individual.
 
-### Post-Traumatic Stress Disorder (PTSD):
+### Post-Traumatic Stress Disorder (PTSD)
 
 #### Symptoms:
 {: .no_toc }
@@ -190,7 +190,7 @@ Prior to diagnosis, reach out to the player OOC to determine how they would like
   - Selective serotonin reuptake inhibitors - SSRIs
   - Serotonin-norepinephrine reuptake inhibitors - SNRIs
 
-### Schizophrenia Spectrum Disorders:
+### Schizophrenia Spectrum Disorders
 
 #### Symptoms:
 {: .no_toc }
@@ -207,7 +207,7 @@ Prior to diagnosis, reach out to the player OOC to determine how they would like
 
 - Antipsychotic medications (typical or atypical) to manage psychotic symptoms.
 
-### Substance Use Disorders:
+### Substance Use Disorders
 
 #### Symptoms:
 {: .no_toc }
@@ -224,7 +224,7 @@ Prior to diagnosis, reach out to the player OOC to determine how they would like
 - Benzodiazepines for alcohol withdrawl
 - Methadone or Buprenorphine for opioid use disorder
 
-### Suicidal Ideation or Self-Harm:
+### Suicidal Ideation or Self-Harm
 {: .highlight }
 **NOTE:** Some servers do not allow this type of roleplay. Look through the rules of your server or ask a server admin to confirm.
 
