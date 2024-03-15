@@ -33,3 +33,15 @@ While plain English is generally acceptable, some players do enjoy uzing 10-code
 | **10-76**   | Enroute                                        |
 | **10-95**   | Suspect in Custody                             |
 | **10-100**  | Crash/Sudden Nap/Disconnect                    |
+
+## Status Codes
+
+| **Code**      | **Meaning**                     |
+|---------------|---------------------------------|
+| **Code 1**    | No Lights, No Siren             |
+| **Code 2**    | Lights, No Siren                |
+| **Code 3**    | Lights and Siren                |
+| **Code 4**    | All Clear                       |
+| **Code Blue** | Coding Patient / Cardiac Arrest |
+| **UTL**       | Unable to Locate                |
+
