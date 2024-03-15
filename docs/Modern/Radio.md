@@ -6,10 +6,10 @@ parent: Modern Medicine
 
 # Radio Communications
 
-## 10-Codes
-While plain English is generally acceptable, some players do enjoy uzing 10-codes in their roleplay.
+## Radio-Codes
+While plain English is generally acceptable, some players do enjoy uzing radio codes in their roleplay.
 
-| **10 Code** | **Meaning**                                    |
+| **Radio Code** | **Meaning**                                    |
 |-------------|------------------------------------------------|
 | **10-1**    | Frequency Change                               |
 | **10-2**    | Heard Loud & Clear / Response for Radio Check  |
@@ -33,11 +33,6 @@ While plain English is generally acceptable, some players do enjoy uzing 10-code
 | **10-76**   | Enroute                                        |
 | **10-95**   | Suspect in Custody                             |
 | **10-100**  | Crash/Sudden Nap/Disconnect                    |
-
-## Status Codes
-
-| **Code**      | **Meaning**                     |
-|---------------|---------------------------------|
 | **Code 1**    | No Lights, No Siren             |
 | **Code 2**    | Lights, No Siren                |
 | **Code 3**    | Lights and Siren                |
