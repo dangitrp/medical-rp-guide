@@ -47,7 +47,7 @@ As this is roleplay, always remember to **suspend your disbelief (become more gu
 <tr><td>
 <a href="/docs/Modern/Paranormal.html"><figure class="image"> <img src="https://raw.githubusercontent.com/dangitrp/medical-rp-guide/main/assets/images/paranormal.jpg"></figure></a>
 </td><td>
-<a href="/docs/Modern/Physicals.html"><figure class="image"> <img src="https://raw.githubusercontent.com/dangitrp/medical-rp-guide/main/assets/images/Hospital.jpg"></figure></a>
+<a href="/docs/Modern/Physicals.html"><figure class="image"> <img src="https://raw.githubusercontent.com/dangitrp/medical-rp-guide/main/assets/images/hospital.jpg"></figure></a>
 </td><td>
 <a href="/docs/Modern/Poison.html"><figure class="image"> <img src="https://raw.githubusercontent.com/dangitrp/medical-rp-guide/main/assets/images/poison.jpg"></figure></a>
 </td></tr>
