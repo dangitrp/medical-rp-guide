@@ -8,7 +8,7 @@ As this is roleplay, always remember to **suspend your disbelief (become more gu
 
 ## Contributions
 
-For those who would like to make contribuitons to this guide, the plan with this is to keep the documents under Hospital and Ambulatory Services at an extremely basic level. Don't stress too much about a specific name of a medication. Simply stating "Push an antibiotic through an IV" or "Administer a local anasthetic" or "Apply antibiotic ointment" is perfectly acceptable.
+For those who would like to make contribuitons to this guide, the plan with this is to keep the documents at an extremely basic level. Don't stress too much about a specific name of a medication. Simply stating "Push an antibiotic through an IV" or "Administer a local anasthetic" or "Apply antibiotic ointment" is perfectly acceptable.
 
 ### Expectations for Documentation
 - Follow the KISS Method when writing documentation (Keep it simple, stupid!)
