@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Neurological
-parent: Hospital Services
+parent: Modern Medicine
 ---
 
 # Neurological

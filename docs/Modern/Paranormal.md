@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Paranormal Medicine
-parent: Hospital Services
+parent: Modern Medicine
 ---
 
 # Paranormal Medicine

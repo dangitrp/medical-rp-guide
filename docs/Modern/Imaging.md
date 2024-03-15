@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Imaging
-parent: Hospital Services
+parent: Modern Medicine
 ---
 
 # Imaging

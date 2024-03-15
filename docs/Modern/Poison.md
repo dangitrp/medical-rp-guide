@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Poisoning and Narcotics
-parent: Hospital Services
+parent: Modern Medicine
 ---
 
 # Poisoning and Narcotics

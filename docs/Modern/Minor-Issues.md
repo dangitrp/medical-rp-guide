@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bumps, Cuts, and Bruises
-parent: Hospital Services
+parent: Modern Medicine
 ---
 # Bumps, Cuts, and Bruises
 

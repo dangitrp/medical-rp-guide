@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Medications
-parent: General Medical
+parent: Modern Medicine
 ---
 
 # Medication Classes and Examples

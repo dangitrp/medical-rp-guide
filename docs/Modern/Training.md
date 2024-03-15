@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Training
-parent: Hospital Services
+parent: Modern Medicine
 ---
 
 # Training

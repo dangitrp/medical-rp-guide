@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Burns
-parent: Hospital Services
+parent: Modern Medicine
 ---
 
 # Burns

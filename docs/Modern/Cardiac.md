@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Cardiac (Heart)
-parent: Hospital Services
+parent: Modern Medicine
 ---
 
 # Cardiac (Heart)

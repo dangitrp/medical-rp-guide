@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mental Health
-parent: Hospital Services
+parent: Modern Medicine
 ---
 <details open markdown="block">
   <summary>

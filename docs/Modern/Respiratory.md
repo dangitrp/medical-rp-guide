@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Respiratory
-parent: Hospital Services
+parent: Modern Medicine
 ---
 
 # Respiratory

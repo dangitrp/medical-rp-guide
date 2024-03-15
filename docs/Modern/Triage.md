@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Triage
-parent: General Medical
+parent: Modern Medicine
 ---
 
 # Triage
@@ -38,7 +38,7 @@ Critical, will need constant attention.
 - Injuries that place a life in jeopardy/low or irregular vitals
 
 ### Black
-DOA, injuries are so bad they are already dead.
+DOA, injuries are so bad they are already dead. Attempt resuscitation only one time to patients in this category
 - Decapitation 
 - Missing Organs
 - Too much blood loss

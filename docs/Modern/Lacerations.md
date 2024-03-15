@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lacerations (Cuts, Stabs)
-parent: Hospital Services
+parent: Modern Medicine
 ---
 # Lacerations
 

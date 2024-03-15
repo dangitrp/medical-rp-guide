@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hospital Services
+title: Modern Medicine
 nav_order: 4
 has_children: true
 ---

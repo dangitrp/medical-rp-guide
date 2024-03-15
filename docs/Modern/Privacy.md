@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Patient Privacy
-parent: General Medical
+parent: Modern Medicine
 ---
 
 # HIPAA

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Physical Exams
-parent: Hospital Services
+parent: Modern Medicine
 ---
 
 # Physical Exams and General Exams

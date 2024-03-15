@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Gastrointestinal (Abdomen / Intestines)
-parent: Hospital Services
+parent: Modern Medicine
 ---
 
 # Gastrointestinal (Abdomen / Intestines)
