@@ -90,3 +90,20 @@ Elevated blood pressure, which can lead to complications such as stroke, heart a
 - Stabilize the patient and discharge
 - Schedule a follow-up within 7 days
 
+---
+
+## Tachycardia
+Elevated Heart Rate (Above 100)
+
+### Symptoms
+- Rapid heartbeat (heart rate over 100 beats per minute at rest)
+- Palpitations (sensation of fluttering or pounding in the chest)
+- Dizziness or lightheadedness
+- Shortness of breath
+- Chest pain or discomfort
+- Fainting or near-fainting spells
+- Fatigue
+
+### Treatment
+- Take Vitals
+- 
