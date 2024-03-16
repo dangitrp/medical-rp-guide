@@ -101,6 +101,27 @@ You can use the following prompt to help with generating diagnostic criteria, qu
 
 ## Roleplay Mental Health Issues
 
+### Antisocial Personality Disorder
+
+#### Symptoms
+{: .no_toc }
+
+- Persistent disregard for and violation of the rights of others.
+- Deceitfulness, impulsivity, aggressiveness, and irresponsibility.
+- Lack of empathy and remorse, as well as a disregard for societal norms.
+
+#### Medication
+{: .no_toc }
+
+- Antidepressants
+  - Selective serotonin reuptake inhibitors - SSRIs
+  - Serotonin-norepinephrine reuptake inhibitors - SNRIs
+- Mood stabilizers
+  - Lithium
+  - Valproate
+
+---
+
 ### Anxiety Disorders
 
 #### Symptoms
@@ -148,6 +169,21 @@ You can use the following prompt to help with generating diagnostic criteria, qu
 
 ---
 
+### Congenital Insensitivity to Pain with Anhidrosis (CIPA)
+
+#### Symptoms
+{: .no_toc }
+
+- Lack of response to painful stimuli since birth.
+- Difficulty regulating body temperature due to inability to sweat.
+- Frequent injuries without apparent distress or awareness.
+
+#### Medication
+{: .no_toc }
+
+- Symptomatic treatment for injuries and infections as they occur
+
+---
 ### Depression
 
 #### Symptoms
@@ -213,6 +249,27 @@ You can use the following prompt to help with generating diagnostic criteria, qu
 - Binge eating or purging behaviors
 - Significant weight changes
 - Physical signs such as fatigue, dizziness, or changes in skin and hair.
+
+---
+
+### Intermittent Explosive Disorder
+
+#### Symptoms:
+{: .no_toc }
+
+- Recurrent, sudden episodes of aggressive behavior or explosive outbursts.
+- Disproportionate reaction to minor provocations or stressors.
+- Feelings of tension or arousal before the outburst, followed by a sense of relief or guilt afterward.
+
+#### Medication
+{: .no_toc }
+
+- Antidepressants
+  - Selective serotonin reuptake inhibitors - SSRIs
+  - Serotonin-norepinephrine reuptake inhibitors - SNRIs
+- Mood stabilizers
+  - Lithium
+  - Valproate
 
 ---
 

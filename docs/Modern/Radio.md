@@ -6,7 +6,7 @@ parent: Modern Medicine
 
 # Radio Communications
 
-## Radio-Codes
+## Radio Codes
 While plain English is generally acceptable, some players do enjoy uzing radio codes in their roleplay.
 
 | **Radio Code** | **Meaning**                                    |
