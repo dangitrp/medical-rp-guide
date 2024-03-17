@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mental Health Therapy
+title: Mental Health Therapy Techniques
 parent: Mental Health
 grand_parent: Modern Medicine
 ---
