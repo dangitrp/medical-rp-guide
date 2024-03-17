@@ -10,6 +10,8 @@ First and Foremost, remember that you do not have to believe a character is a pa
 
 Here are some tips to help when dealing with paranormal patients
 
+---
+
 ## Animals and Dinosaurs
 
 - Confirm the patient is an animal/dinosaur and not just dressed up as one
@@ -19,6 +21,8 @@ Here are some tips to help when dealing with paranormal patients
 - If confirmed to be an unaccompanied animal, you can attempt to call in animal control or your local law enforcement to help round up wild animals and send them back to a local farm or animal preserve
 - Animals may be treated similar to humans unless they are cold blooded
   - If cold-blooded, you may need to turn on a heat lamp
+
+---
 
 ## Robots
 
@@ -39,6 +43,8 @@ Here are some tips to help when dealing with paranormal patients
   - Taking apart nearby electronics or metal objects for parts to use in surgery
 - Cautions:
   - Do not connect to higher than 240v electricity unless otherwise noted
+
+---
 
 ## Vampires
 
