@@ -4,6 +4,9 @@ title: Mental Health Disorders
 parent: Mental Health
 grand_parent: Modern Medicine
 ---
+# Roleplay Mental Health Issues
+{: .no_toc }
+
 <details open markdown="block">
   <summary>
     Table of contents
@@ -12,8 +15,6 @@ grand_parent: Modern Medicine
 - TOC
 {:toc}
 </details>
-
-# Roleplay Mental Health Issues
 
 ## OOC Mental Health Resources
 

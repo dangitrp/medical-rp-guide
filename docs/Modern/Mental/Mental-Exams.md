@@ -4,6 +4,9 @@ title: Mental Health Exams
 parent: Mental Health
 grand_parent: Modern Medicine
 ---
+# Psychiatric Exams
+{: .no_toc }
+
 <details open markdown="block">
   <summary>
     Table of contents
@@ -13,7 +16,7 @@ grand_parent: Modern Medicine
 {:toc}
 </details>
 
-# Psychiatric Exams
+## OOC Sync-Up
 
 Prior to diagnosis, reach out to the player OOC to determine how they would like their story to move forward. Remember to allow the player to have full-control over their story and not to power-game them with a diagnosis or treatment. This type of roleplay is to help support their story, not break it down. When having the OOC discussion, ask what they are hoping to gain from a session, such as:
 

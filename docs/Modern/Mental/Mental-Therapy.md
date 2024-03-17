@@ -4,6 +4,9 @@ title: Mental Health Therapy
 parent: Mental Health
 grand_parent: Modern Medicine
 ---
+# Mental Health Therapy Techniques
+{: .no_toc }
+
 <details open markdown="block">
   <summary>
     Table of contents
@@ -12,9 +15,6 @@ grand_parent: Modern Medicine
 - TOC
 {:toc}
 </details>
-
-
-# Mental Health Therapy Techniques
 
 ##  Cognitive-Behavioral Therapy (CBT)
 
