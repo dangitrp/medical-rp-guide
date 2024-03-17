@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mental Health
+title: Mental Health Legacy
 parent: Modern Medicine
 ---
 <details open markdown="block">
