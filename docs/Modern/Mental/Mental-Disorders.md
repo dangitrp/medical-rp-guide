@@ -37,14 +37,14 @@ It is very possible OOC mental health issues of a player can cross the lines to 
 
 ## Antisocial Personality Disorder
 
-#### Symptoms
+### Symptoms
 {: .no_toc }
 
 - Persistent disregard for and violation of the rights of others.
 - Deceitfulness, impulsivity, aggressiveness, and irresponsibility.
 - Lack of empathy and remorse, as well as a disregard for societal norms.
 
-#### Medication
+### Medication
 {: .no_toc }
 
 - Antidepressants
@@ -56,9 +56,9 @@ It is very possible OOC mental health issues of a player can cross the lines to 
 
 ---
 
-### Anxiety Disorders
+## Anxiety Disorders
 
-#### Symptoms
+### Symptoms
 {: .no_toc }
 
 - Excessive worry
@@ -69,7 +69,7 @@ It is very possible OOC mental health issues of a player can cross the lines to 
 - Panic attacks
 - Avoidance of certain situations or activities.
 
-#### Medication
+### Medication
 {: .no_toc }
 
 - Anxiolytics for short-term relief
@@ -80,9 +80,9 @@ It is very possible OOC mental health issues of a player can cross the lines to 
 
 ---
 
-### Bipolar Disorder
+## Bipolar Disorder
 
-#### Symptoms
+### Symptoms
 {: .no_toc }
 
 - Periods of elevated mood (mania or hypomania) alternating with periods of depression
@@ -91,7 +91,7 @@ It is very possible OOC mental health issues of a player can cross the lines to 
 - Impulsivity
 - Risky behavior during manic episodes
 
-#### Medication
+### Medication
 {: .no_toc }
 
 - Mood stabilizers
@@ -103,24 +103,24 @@ It is very possible OOC mental health issues of a player can cross the lines to 
 
 ---
 
-### Congenital Insensitivity to Pain with Anhidrosis (CIPA)
+## Congenital Insensitivity to Pain with Anhidrosis (CIPA)
 
-#### Symptoms
+### Symptoms
 {: .no_toc }
 
 - Lack of response to painful stimuli since birth.
 - Difficulty regulating body temperature due to inability to sweat.
 - Frequent injuries without apparent distress or awareness.
 
-#### Medication
+### Medication
 {: .no_toc }
 
 - Symptomatic treatment for injuries and infections as they occur
 
 ---
-### Depression
+## Depression
 
-#### Symptoms
+### Symptoms
 {: .no_toc }
 
 - Persistent low mood
@@ -131,7 +131,7 @@ It is very possible OOC mental health issues of a player can cross the lines to 
 - Difficulty concentrating
 - Thoughts of death or suicide.
 
-#### Medication
+### Medication
 {: .no_toc }
 
 - Antidepressants
@@ -141,9 +141,9 @@ It is very possible OOC mental health issues of a player can cross the lines to 
 
 ---
 
-### Dissociative Identity Disorder
+## Dissociative Identity Disorder
 
-#### Symptoms:
+### Symptoms:
 {: .no_toc }
 
 - Amnesia or Memory Gaps
@@ -155,7 +155,7 @@ It is very possible OOC mental health issues of a player can cross the lines to 
 - Co-Occurring Mental Health Issues
 - Self-Injurious Behavior
 
-#### Medication
+### Medication
 {: .no_toc }
 
 - Antidepressants
@@ -172,9 +172,9 @@ It is very possible OOC mental health issues of a player can cross the lines to 
 
 ---
 
-### Eating Disorders
+## Eating Disorders
 
-#### Symptoms:
+### Symptoms:
 {: .no_toc }
 
 - Distorted body image
@@ -186,16 +186,16 @@ It is very possible OOC mental health issues of a player can cross the lines to 
 
 ---
 
-### Intermittent Explosive Disorder
+## Intermittent Explosive Disorder
 
-#### Symptoms:
+### Symptoms:
 {: .no_toc }
 
 - Recurrent, sudden episodes of aggressive behavior or explosive outbursts.
 - Disproportionate reaction to minor provocations or stressors.
 - Feelings of tension or arousal before the outburst, followed by a sense of relief or guilt afterward.
 
-#### Medication
+### Medication
 {: .no_toc }
 
 - Antidepressants
@@ -207,16 +207,16 @@ It is very possible OOC mental health issues of a player can cross the lines to 
 
 ---
 
-### Obsessive-Compulsive Disorder (OCD)
+## Obsessive-Compulsive Disorder (OCD)
 
-#### Symptoms:
+### Symptoms:
 {: .no_toc }
 
 - Obsessions (intrusive, unwanted thoughts)
 - Compulsions (repetitive behaviors or mental acts performed to alleviate anxiety)
 - Interference with daily activities due to these rituals.
 
-#### Medication
+### Medication
 {: .no_toc }
 
 - Antidepressants
@@ -228,18 +228,18 @@ It is very possible OOC mental health issues of a player can cross the lines to 
 
 ---
 
-### Personality Disorders
+## Personality Disorders
 
-#### Symptoms:
+### Symptoms:
 {: .no_toc }
 
 - Persistent patterns of behavior, cognition, and inner experience that deviate markedly from cultural expectations, leading to impaired functioning and distress for the individual.
 
 ---
 
-### Post-Traumatic Stress Disorder (PTSD)
+## Post-Traumatic Stress Disorder (PTSD)
 
-#### Symptoms:
+### Symptoms:
 {: .no_toc }
 
 - Intrusive memories or flashbacks of a traumatic event
@@ -248,7 +248,7 @@ It is very possible OOC mental health issues of a player can cross the lines to 
 - Hypervigilance
 - Exaggerated startle response.
 
-#### Medication
+### Medication
 {: .no_toc }
 
 - Antidepressants
@@ -257,9 +257,9 @@ It is very possible OOC mental health issues of a player can cross the lines to 
 
 ---
 
-### Schizophrenia Spectrum Disorders
+## Schizophrenia Spectrum Disorders
 
-#### Symptoms:
+### Symptoms:
 {: .no_toc }
 
 - Hallucinations (false sensory perceptions)
@@ -269,16 +269,16 @@ It is very possible OOC mental health issues of a player can cross the lines to 
 - Social withdrawal
 - Impaired cognitive function.
 
-#### Medication
+### Medication
 {: .no_toc }
 
 - Antipsychotic medications (typical or atypical) to manage psychotic symptoms.
 
 ---
 
-### Substance Use Disorders
+## Substance Use Disorders
 
-#### Symptoms:
+### Symptoms:
 {: .no_toc }
 
 - Loss of control over substance use
@@ -287,7 +287,7 @@ It is very possible OOC mental health issues of a player can cross the lines to 
 - Increased tolerance
 - Withdrawal symptoms.
 
-#### Medication
+### Medication
 {: .no_toc }
 
 - Benzodiazepines for alcohol withdrawl
@@ -295,12 +295,12 @@ It is very possible OOC mental health issues of a player can cross the lines to 
 
 ---
 
-### Suicidal Ideation or Self-Harm
+## Suicidal Ideation or Self-Harm
 
 {: .highlight }
 **NOTE:** Some servers do not allow this type of roleplay. Look through the rules of your server or ask a server admin to confirm.
 
-#### Symptoms:
+### Symptoms:
 {: .no_toc }
 
 - Expressing thoughts of self-harm or suicide
