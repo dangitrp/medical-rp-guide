@@ -10,6 +10,8 @@ parent: Modern Medicine
 
 Move the patient to one of the exam rooms upstairs to complete the physical exam
 
+---
+
 ### General Information
 
 Fill out an ICE Contacts log, making sure you gather this information
@@ -25,6 +27,8 @@ Fill out an ICE Contacts log, making sure you gather this information
 - Weight (scale in dr office)
 - Height (from pt)
 
+---
+
 ### Eye Exam:
 
 - Have the patient stand on the opposite side of the room from the eye chart
@@ -32,12 +36,16 @@ Fill out an ICE Contacts log, making sure you gather this information
 - They must pass Line 8 for this to be considered a Pass
   - Can add covering an eye for more RP flair
 
+---
+
 ### Ear Exam
 
 - Place some headphones on the patient
 - Turn on a tone generator so they hear a constant beep sound [(starting at about 1.5KHz)](https://www.youtube.com/watch?v=1iE_Kf3i6Ok)
 - Slowly turn up the tone generator until they can't hear it anymore (usually around [12KHz](https://www.youtube.com/watch?v=5lOOpD1sIo8)-[15KHz](https://www.youtube.com/watch?v=6r6fzAa9ylU))
 - Ears will be considered passing if they can perceive [8KHz](https://www.youtube.com/watch?v=K224PdHB3p8)
+
+---
 
 ### Heart and lung check:
 
@@ -51,10 +59,14 @@ Fill out an ICE Contacts log, making sure you gather this information
     - Check heart rate
     - Check blood oxygen levels (95-99 perfect, <95 concerning)
 
+---
+
 ### Drug Test:
 
 - Urine sample - walk to bathroom
 - /OOC to find results
+
+---
 
 ### Physical Fitness test:
 
@@ -69,6 +81,8 @@ Fill out an ICE Contacts log, making sure you gather this information
   - Oxygen Levels
   - Labored breathing
   - etc.
+
+---
 
 ### Notation
 
