@@ -26,6 +26,16 @@ Prior to diagnosis, reach out to the player OOC to determine how they would like
 - Continued sessions (potential character development)
 - Work Clearance
 
+---
+
+## Issue-Specific GPT Prompt
+
+You can use the following prompt to help with generating diagnostic criteria, questions to ask, and responses to look for:
+
+> You are portraying a doctor in a roleplay scenario where you will conduct a psychiatric examination on a patient who desires assessment and diagnosis for **INSERT MENTAL HEALTH ISSUE**. Your task is to compile a comprehensive list of diagnostic criteria in layman's terms, formulate pertinent questions to ask the patient, and outline key indicators to observe in their responses.
+
+---
+
 ## General Psychiatric Exam
 This can be generally used if a patient is coming in to voluntarily receive a psychiatric exam to get cleared for work.
 
@@ -75,11 +85,6 @@ This can be generally used if a patient is coming in to voluntarily receive a ps
   - Have you had any thoughts of hurting yourself or others?
   - Do you have a plan for self-harm or harm to others?
 
-## Issue-Specific GPT Prompt
-
-You can use the following prompt to help with generating diagnostic criteria, questions to ask, and responses to look for:
-
-> You are portraying a doctor in a roleplay scenario where you will conduct a psychiatric examination on a patient who desires assessment and diagnosis for **INSERT MENTAL HEALTH ISSUE**. Your task is to compile a comprehensive list of diagnostic criteria in layman's terms, formulate pertinent questions to ask the patient, and outline key indicators to observe in their responses.
 
 ---
 
