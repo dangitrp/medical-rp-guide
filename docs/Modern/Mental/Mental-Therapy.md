@@ -2,6 +2,7 @@
 layout: default
 title: Mental Health Therapy
 parent: Mental Health
+grand_parent: Modern Medicine
 ---
 <details open markdown="block">
   <summary>
