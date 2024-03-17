@@ -17,6 +17,8 @@ parent: Modern Medicine
 - Repeat Narcan if not responding adequately
 - Administer a banana bag to help recover nutrients
 
+---
+
 ## Poisoning
 - Identify poison symptoms
   - Nausea
