@@ -7,6 +7,8 @@ parent: Modern Medicine
 # Training
 The following objectives are areas to cover to build up knowledge as a medical roleplayer
 
+---
+
 ## Basic Patient Care
 - Bruising
 - Superficial Cuts
@@ -15,11 +17,15 @@ The following objectives are areas to cover to build up knowledge as a medical r
 - Road Rash
 - Overdose / Poisoning
 
+---
+
 ## Imaging
 - Xray
 - CT Scan (Computed Tomography)
 - Sonogram / Ultra-Sound
 - MRI (Magnetic Resonance Imaging)
+
+---
 
 ## Surgery
 - Anasthesia / Sedation
@@ -31,10 +37,14 @@ The following objectives are areas to cover to build up knowledge as a medical r
 - Gastro-Intestinal / Abdominal
 - 3rd and 4th Degree Burns
 
+---
+
 ## Reporting
 - Medical Reports
 - Death Certificates
 - Privacy laws and disclosure of information
+
+---
 
 ## Triage
 - Triage
