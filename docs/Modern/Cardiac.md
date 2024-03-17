@@ -27,6 +27,32 @@ Atrial Fibrillation (AFib) is an irregular and often rapid heart rate that can l
   - Consider beta-blockers to help control rhythm, would require follow-up for checkups and prescription
   - Consider a pacemaker to maintain rhythm, would require surgery, no follow-ups, no future metal detectors
 
+---
+
+## Bradycardia
+Low Heart Rate (Below 60)
+
+### Symptoms
+- Slow heartbeat (heart rate below 60 beats per minute at rest)
+- Fatigue
+- Dizziness or lightheadedness
+- Fainting or near-fainting spells
+- Shortness of breath
+- Chest pain or discomfort
+- Confusion or difficulty concentrating
+
+### Treatment
+- Take Vitals
+- If not apparent, check for underlying symptoms
+  - Medication side effects
+  - Electrolyte imbalance
+  - Recent injury
+- Administer Epinepherine
+- Monitor vitals for rising of heart rate
+- If patient would like to treat underlying cause, collect blood work and send to lab
+- OOC with patient on lab results
+- Consider placing a pacemaker if patient desires
+
 
 ---
 
@@ -106,4 +132,8 @@ Elevated Heart Rate (Above 100)
 
 ### Treatment
 - Take Vitals
-- 
+- Place an Oxygen mask on the patient
+- Administer Cardizem
+- Monitor vitals for lowering of heart rate
+- If patient would like to treat underlying cause, collect blood work and send to lab
+- OOC with patient on lab results
