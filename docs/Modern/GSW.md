@@ -7,21 +7,26 @@ parent: Modern Medicine
 # Gunshot Wounds (GSW's)
 
 ## On Scene
-- Ensure safety of the scene
-- Triage and assess the scene
-  - In a Mass Casualty scene, attempt resuscitation **one time only** on a no-vitals patient before moving to the next patient
-- Control bleeding
-  - Apply direct pressure to the wound to control the bleeding
-  - Apply a tournequit if needed
-  - If bleeding does not stop, apply pressure to the nearest arterial pressure point
-  - Elevate the affected limb to reduce bleeding
-- Pack the wound with gauze
-- Assess the patient for any other injuries (complete the ABC's)
-- Start the patient on Oxygen, O-, and fluids
-- Administer pain medication
-- Prepare the patient for transport
-- Monitor the patient's vitals
-- Hand off the patient to hospital staff, detailing the situation and what you did
+
+### Graze
+- Clean with saline 
+- Add neosporin
+- Apply Bandages
+
+### T&T
+- Apply tourniquet (Arms/Legs ONLY) when/if needed
+- Clean wound with Saline
+- Seal front and back of wound(s)
+- Apply Pressure Bandage
+
+
+### Lodged
+- Apply tourniquet (Arms/Legs ONLY) when/if needed
+- Clean wound with Saline
+- Apply Pressure Bandages
+  - Don't pack for worries of pushing the bullet deeper
+
+---
 
 ## In the Hospital
 - Take patient into the OR
