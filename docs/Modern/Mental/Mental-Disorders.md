@@ -7,18 +7,9 @@ grand_parent: Modern Medicine
 # Roleplay Mental Health Issues
 {: .no_toc }
 
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-- TOC
-{:toc}
-</details>
-
 ## OOC Mental Health Resources
+{: .no_toc }
 
-{: .highlight }
 It is very possible OOC mental health issues of a player can cross the lines to an IC character. Do not attempt to treat an OOC issue. Trained professionals are available at the following resources to help with OOC issues:
 
 - For emergency help 
@@ -34,6 +25,15 @@ It is very possible OOC mental health issues of a player can cross the lines to 
   - Contact the [National Domestic Violence Hotline](https://www.thehotline.org/) at 1-800-799-7233.
 
 ---
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
 
 ## Antisocial Personality Disorder
 
