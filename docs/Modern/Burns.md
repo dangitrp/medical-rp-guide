@@ -6,13 +6,21 @@ parent: Modern Medicine
 
 # Burns
 
-## All burns
-- Ensure the burning is no longer active
-- Remove any constrictive clothing
+## On-Scene
+
+### 1st and 2nd Degree
+- Clean with Saline
+- Add burn gel to burns
+- Loosely wrap with non-adhesive gauze
+
+### 3rd Degree
+- Cool down with Saline
 
 ---
 
-## 1st Degree - Superficial
+## In Hospital
+
+### 1st Degree - Superficial
 No surgery required
 
 - Cool the burn with a cool, not cold, flush or cool compress
@@ -27,7 +35,7 @@ No surgery required
 
 ---
 
-## 2nd Degree - Some Blisters
+### 2nd Degree - Some Blisters
 No surgery required
 
 - Cool the burn with a cool, not cold, flush or cool compress
@@ -43,7 +51,7 @@ No surgery required
 
 ---
 
-## 3rd Degree - Destroyed Skin
+### 3rd Degree - Destroyed Skin
 Surgery Required
 
 - Move the patient into the operating room
@@ -58,7 +66,7 @@ Surgery Required
 - Check vitals
 - Move patient to recovery
 
-### Complications of 3rd Degree Burns
+#### Complications of 3rd Degree Burns
 
 - Arrhythmia, or heart rhythm disturbances, caused by an electrical burn.
 - Dehydration.
@@ -71,7 +79,7 @@ Surgery Required
 
 ---
 
-## 4th Degree - Past Skin, Into Muscles/Bone
+### 4th Degree - Past Skin, Into Muscles/Bone
 
 NOTE: Amputations are not allowed in some servers. Refer to your server rules or check with a server admin before proceeding
 

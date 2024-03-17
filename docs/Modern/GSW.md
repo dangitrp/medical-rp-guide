@@ -10,6 +10,7 @@ parent: Modern Medicine
 
 ### Graze
 - Clean with saline 
+- Check if wound needs stitches
 - Add neosporin
 - Apply Bandages
 
@@ -18,7 +19,6 @@ parent: Modern Medicine
 - Clean wound with Saline
 - Seal front and back of wound(s)
 - Apply Pressure Bandage
-
 
 ### Lodged
 - Apply tourniquet (Arms/Legs ONLY) when/if needed

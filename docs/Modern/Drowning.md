@@ -7,18 +7,26 @@ parent: Modern Medicine
 # Drowning
 
 ## On Scene
+- Put PT onto side
+- Pat their back to help them cough up water
+- Once PT coughs up water, place them back onto their back
+- Check Vitals
+- If no pulse, perform CPR
+  - CPR (2 rounds of 30 compressions & 2 breaths)
+  - Check for success
+- If still no pulse, perform AED
+  - Cut PT shirt open (if they have one on)
+  - Dry PT off with dry towel
+  - Apply AED pads to PT in the dry area
+  - Push the button on AED to find a shockable rhythm
+  - Once a shockable rhythm is found, shock the PT.
+  - If not revived after first shock, administer Epi
+  - Can shock PT up to 3 times
+  - Confirm stable pulse
+- Place O2 Mask
+- Start IV w/ Lasix (if salt water)
+- Transport PT to St. Fiacre
 
-- Ensure safety of the scene
-- If the victim is still in the water, initiate a water rescue
-- Remove the patient from the water
-- Check Airway, Breathing, Circulation (ABC)
-- If victim is not breathing, start CPR
-- Provide rescue breaths if needed
-- Continue CPR until victim starts breathing
-- If patient was in salt water, administer the diuretic Lasix to prevent the body from absorbing salt
-- Stabilize the patient and prepare for transport if needed
-- Monitor the patient's vitals
-- Hand off the patient to hospital staff, detailing the situation and what you did
 
 ## In the Hospital
 

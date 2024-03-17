@@ -5,7 +5,14 @@ parent: Modern Medicine
 ---
 # Lacerations
 
-## Major Cuts and Stab Wounds
+## On Scene
+- Clean wound with Saline
+- Pack wound with gauze
+- Apply pressure bandages
+
+---
+
+## In Hospital
 
 - Take the patient into the OR
 - Check Vitals
