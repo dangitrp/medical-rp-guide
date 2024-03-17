@@ -35,6 +35,8 @@ It is very possible OOC mental health issues of a player can cross the lines to 
 {:toc}
 </details>
 
+---
+
 ## Antisocial Personality Disorder
 
 ### Symptoms
