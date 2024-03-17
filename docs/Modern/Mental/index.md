@@ -7,7 +7,9 @@ has_children: true
 
 # Mental Health
 
-If you are wanting to engage in mental health therapy roleplay, it is encouraged to have an OOC discussion about where the other player wants their story to go. That way you can work with them in-character to get there. Remember this guide is only to assist in roleplay and is not a substitute for seeing a mental health professional.
+If you are wanting to engage in mental health therapy roleplay, it is encouraged to have an OOC discussion about where the other player wants their story to go. That way you can work with them in-character to get there. 
+
+**Remember this guide is only to assist in roleplay and is not a substitute for seeing a mental health professional for OOC issues.**
 
 ## OOC Mental Health Resources
 
