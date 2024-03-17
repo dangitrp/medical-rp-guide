@@ -10,6 +10,8 @@ parent: Modern Medicine
 - Ensure the burning is no longer active
 - Remove any constrictive clothing
 
+---
+
 ## 1st Degree - Superficial
 No surgery required
 
@@ -22,6 +24,8 @@ No surgery required
   - Hasn't been updated on a Tetanus shot
   - Blister becomes larger than 2 inches
   - Redness and pain lasts longer than a few hours
+
+---
 
 ## 2nd Degree - Some Blisters
 No surgery required
@@ -36,6 +40,8 @@ No surgery required
   - Hasn't been updated on a Tetanus shot
   - Blister becomes larger than 2 inches
   - Redness and pain lasts longer than a few hours
+
+---
 
 ## 3rd Degree - Destroyed Skin
 Surgery Required
@@ -63,9 +69,19 @@ Surgery Required
 - Seriously low blood pressure (hypotension) that may lead to shock.
 - Severe infection that may lead to amputation or sepsis.
 
+---
+
 ## 4th Degree - Past Skin, Into Muscles/Bone
 
-Description
+NOTE: Amputations are not allowed in some servers. Refer to your server rules or check with a server admin before proceeding
 
-- Simple Treatment Plan
-
+- Move the patient into the operating room
+- Apply an oxygen mask
+- Administer a general anasthetic
+- Assess the situation
+  - Determine if amputation is required
+- Amputate if necessary
+- Clean and suture wound
+- Ensure success and good vitals
+- Administer antibiotics
+- Move patient to ICU for recovery
