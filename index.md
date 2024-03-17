@@ -38,7 +38,7 @@ As this is roleplay, always remember to **suspend your disbelief (become more gu
 <a href="/docs/Modern/Medication.html"><figure class="image"> <img src="https://raw.githubusercontent.com/dangitrp/medical-rp-guide/main/assets/images/pills.jpg"></figure></a>
 </td></tr>
 <tr><td>
-<a href="/docs/Modern/Mental-Health.html"><figure class="image"> <img src="https://raw.githubusercontent.com/dangitrp/medical-rp-guide/main/assets/images/mental.jpg"></figure></a>
+<a href="/docs/Modern/Mental/"><figure class="image"> <img src="https://raw.githubusercontent.com/dangitrp/medical-rp-guide/main/assets/images/mental.jpg"></figure></a>
 </td><td>
 <a href="/docs/Modern/Neurological.html"><figure class="image"> <img src="https://raw.githubusercontent.com/dangitrp/medical-rp-guide/main/assets/images/neuro.jpg"></figure></a>
 </td><td>
