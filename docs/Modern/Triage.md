@@ -15,6 +15,7 @@ Follow your ABCDE - Airway, Breathing, Circulation, Diagnosis, Exposure
 - **Diagnosis** - Treatment of any visible injuries
 - **Exposure** - Watch for infection, disease, etc
 
+---
 
 ## Classifications
 
@@ -44,6 +45,8 @@ DOA, injuries are so bad they are already dead. Attempt resuscitation only one t
 - Too much blood loss
 
 Credit to the editor of [this document](https://docs.google.com/document/d/1FxfFOiidi2QQrY_h3WCcoTUNBPQWhqpnIKFyshHOsyM/edit)
+
+---
 
 # Codes and Alerts
 Code Blue is the only recommended color code to be used with alerts. Plain Language Alerts have been recommended by multiple states to replace them.
