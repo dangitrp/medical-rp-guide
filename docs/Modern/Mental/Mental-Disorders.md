@@ -55,6 +55,7 @@ It is very possible OOC mental health issues of a player can cross the lines to 
 - Mood stabilizers
   - Lithium
   - Valproate
+  - Lamotrigine
 
 ---
 
@@ -99,6 +100,7 @@ It is very possible OOC mental health issues of a player can cross the lines to 
 - Mood stabilizers
   - Lithium
   - Valproate
+  - Lamotrigine
 - Atypical antipsychotics to stabilize mood
   - Olanzapine
   - Quetiapine
@@ -170,6 +172,7 @@ It is very possible OOC mental health issues of a player can cross the lines to 
 - Mood stabilizers
   - Lithium
   - Valproate
+  - Lamotrigine
 - Sleep Aid
 
 ---
@@ -206,6 +209,7 @@ It is very possible OOC mental health issues of a player can cross the lines to 
 - Mood stabilizers
   - Lithium
   - Valproate
+  - Lamotrigine
 
 ---
 
