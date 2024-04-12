@@ -28,6 +28,7 @@ These are pain relievers and fever reducers. For our use they will be broken dow
 * Morphine
 * Hydromorphone (Dilaudid)
 
+
 Use your judgment when determining the pain level of the patient, and always err on the side of caution when a patient comes in and immediately asks for narcotics. It will happen more than you might be prepared for.
 
 ---
@@ -49,7 +50,7 @@ Use your judgment when determining the pain level of the patient, and always err
 Used for bacterial infection, such as meningitis, appendicitis, or common UTI (Urinary Tract Infection)
 
 * Amoxicillin (Amoxil) - Penicillin-based antibiotic
-* Vancomycin (Vancocin)  - Non-Penicillin
+* Vancomycin (Vancocin)*  Non-Penicillin
 * Sulfamethoxazole-Trimethoprim (Bactrim) - for use in patients with Penicillin allergy
 
 ### Antivirals
@@ -138,11 +139,6 @@ Some anticonvulsants include:
 * Phenytoin (Dilantin)
 * Primidone (Mysoline)
 
-### Anxiolytics
-Drugs that lower anxiety by calming the electrical activity in the brain.
-* Lorazepam (Ativan)
-* Diazepam
-
 ### Migraine and Cluster Headache Medications
 Treats intense migraines or cluster headaches. Work particularly well if caught early.
 * Sumatriptan (Imitrex)
@@ -158,6 +154,33 @@ Treats overdose caused by opioids / narcotics.
 ### Poisoning
 Used for suspected poisonings; encourages emesis (vomiting) as well preventing the stomach from absorbing the poison into the body.
 * Activated Charcoal
+---
+
+## Psychological / Mental Health
+
+### Antidepressant
+* Selective serotonin reuptake inhibitors - SSRIs
+* Serotonin-norepinephrine reuptake inhibitors - SNRIs
+* Tricyclic antidepressants - TCAs
+
+### Antipsychotics
+* Atypical
+  * Olanzapine
+  * Quetiapine
+  * Risperidone
+* Typical
+
+### Anxiolytics
+Drugs that lower anxiety by calming the electrical activity in the brain.
+* Lorazepam (Ativan)
+* Diazepam
+* Benzodiazepines
+
+### Mood Stabilizers
+*  Lithium
+*  Valproate
+*  Lamotrigine
+
 
 ---
 
