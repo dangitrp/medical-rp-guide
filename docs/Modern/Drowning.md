@@ -25,7 +25,7 @@ parent: Modern Medicine
   - Confirm stable pulse
 - Place O2 Mask
 - Start IV w/ Lasix (if salt water)
-- Transport PT to St. Fiacre
+- Transport PT to hospital
 
 
 ## In the Hospital
