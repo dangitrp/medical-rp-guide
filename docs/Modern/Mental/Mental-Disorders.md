@@ -38,6 +38,7 @@ It is very possible OOC mental health issues of a player can cross the lines to 
 ---
 
 ## Antisocial Personality Disorder
+Antisocial Personality Disorder (ASPD) is a mental health condition characterized by a persistent pattern of disregard for and violation of the rights of others, often accompanied by a lack of empathy and remorse. People with ASPD may engage in manipulative or aggressive behavior and typically have difficulty forming meaningful relationships.
 
 ### Symptoms
 {: .no_toc }
@@ -50,16 +51,12 @@ It is very possible OOC mental health issues of a player can cross the lines to 
 {: .no_toc }
 
 - Antidepressants
-  - Selective serotonin reuptake inhibitors - SSRIs
-  - Serotonin-norepinephrine reuptake inhibitors - SNRIs
 - Mood stabilizers
-  - Lithium
-  - Valproate
-  - Lamotrigine
 
 ---
 
 ## Anxiety Disorders
+Anxiety disorders are a group of mental health conditions characterized by excessive worry, fear, or nervousness that can significantly interfere with daily life. These disorders can manifest in various forms such as generalized anxiety disorder, panic disorder, social anxiety disorder, and specific phobias.
 
 ### Symptoms
 {: .no_toc }
@@ -76,14 +73,12 @@ It is very possible OOC mental health issues of a player can cross the lines to 
 {: .no_toc }
 
 - Anxiolytics for short-term relief
-  - Benzodiazepines
 - Antidepressants
-  - Selective serotonin reuptake inhibitors - SSRIs
-  - Serotonin-norepinephrine reuptake inhibitors - SNRIs
 
 ---
 
 ## Bipolar Disorder
+Bipolar disorder is a mental health condition characterized by extreme mood swings that include emotional highs (mania or hypomania) and lows (depression). These mood shifts can significantly impact a person's energy levels, thinking, behavior, and ability to function in daily life.
 
 ### Symptoms
 {: .no_toc }
@@ -98,16 +93,12 @@ It is very possible OOC mental health issues of a player can cross the lines to 
 {: .no_toc }
 
 - Mood stabilizers
-  - Lithium
-  - Valproate
-  - Lamotrigine
 - Atypical antipsychotics to stabilize mood
-  - Olanzapine
-  - Quetiapine
 
 ---
 
 ## Congenital Insensitivity to Pain with Anhidrosis (CIPA)
+Congenital Insensitivity to Pain with Anhidrosis (CIPA) is a rare genetic disorder characterized by the inability to feel physical pain and a lack of ability to sweat. People with CIPA are at risk of injuries and health complications due to their insensitivity to pain, which can lead to challenges in daily life management.
 
 ### Symptoms
 {: .no_toc }
@@ -123,6 +114,7 @@ It is very possible OOC mental health issues of a player can cross the lines to 
 
 ---
 ## Depression
+Depression is a mental health disorder characterized by persistent feelings of sadness, hopelessness, and a loss of interest or pleasure in activities. It can also involve changes in appetite, sleep patterns, energy levels, concentration, and overall functioning.
 
 ### Symptoms
 {: .no_toc }
@@ -139,13 +131,11 @@ It is very possible OOC mental health issues of a player can cross the lines to 
 {: .no_toc }
 
 - Antidepressants
-  - Selective serotonin reuptake inhibitors - SSRIs
-  - Serotonin-norepinephrine reuptake inhibitors - SNRIs
-  - Tricyclic antidepressants - TCAs
 
 ---
 
 ## Dissociative Identity Disorder
+Dissociative Identity Disorder (DID) is a complex mental health condition where an individual experiences the presence of two or more distinct personality states or identities, often accompanied by memory gaps between these identities. These identities may have unique characteristics, behaviors, and memories, leading to difficulties in maintaining a cohesive sense of self and functioning in daily life.
 
 ### Symptoms:
 {: .no_toc }
@@ -163,21 +153,15 @@ It is very possible OOC mental health issues of a player can cross the lines to 
 {: .no_toc }
 
 - Antidepressants
-  - Selective serotonin reuptake inhibitors - SSRIs
-  - Serotonin-norepinephrine reuptake inhibitors - SNRIs
 - Anxiolytics
-  - Benzodiazepines
 - Atypical Antipsychotic medications
-  - Risperidone
 - Mood stabilizers
-  - Lithium
-  - Valproate
-  - Lamotrigine
 - Sleep Aid
 
 ---
 
 ## Eating Disorders
+Eating disorders are serious mental health conditions characterized by abnormal eating habits, thoughts, and behaviors that significantly impact a person's physical and emotional well-being. Common types include anorexia nervosa, bulimia nervosa, and binge-eating disorder, each with distinct symptoms such as severe restriction of food intake, binge eating followed by purging behaviors, or consuming large amounts of food in a short period. These disorders often involve distorted body image perceptions and can lead to serious medical complications if left untreated.
 
 ### Symptoms:
 {: .no_toc }
@@ -192,6 +176,7 @@ It is very possible OOC mental health issues of a player can cross the lines to 
 ---
 
 ## Intermittent Explosive Disorder
+Intermittent Explosive Disorder (IED) is a mental health condition characterized by recurrent episodes of impulsive and aggressive behavior that are disproportionate to the provocation or stressors present. Individuals with IED may have difficulty controlling their anger, leading to verbal or physical outbursts that can harm themselves or others. Treatment typically involves therapy and sometimes medication to manage symptoms and improve coping skills.
 
 ### Symptoms:
 {: .no_toc }
@@ -204,16 +189,13 @@ It is very possible OOC mental health issues of a player can cross the lines to 
 {: .no_toc }
 
 - Antidepressants
-  - Selective serotonin reuptake inhibitors - SSRIs
-  - Serotonin-norepinephrine reuptake inhibitors - SNRIs
 - Mood stabilizers
-  - Lithium
-  - Valproate
-  - Lamotrigine
 
 ---
 
 ## Obsessive-Compulsive Disorder (OCD)
+
+Obsessive-Compulsive Disorder (OCD) is a mental health condition characterized by recurrent, unwanted thoughts (obsessions) and repetitive behaviors or mental acts (compulsions) aimed at reducing distress or preventing perceived harm. Individuals with OCD often experience significant anxiety and distress due to these obsessions and compulsions, which can interfere with daily activities and relationships. Treatment typically involves cognitive-behavioral therapy (CBT), medication, or a combination of both to help manage symptoms and improve quality of life.
 
 ### Symptoms:
 {: .no_toc }
@@ -226,15 +208,13 @@ It is very possible OOC mental health issues of a player can cross the lines to 
 {: .no_toc }
 
 - Antidepressants
-  - Selective serotonin reuptake inhibitors - SSRIs
-  - Tricyclic antidepressants - TCAs
 - Anxiolytics
-  - Benzodiazepines
 - Antipsychotics
 
 ---
 
 ## Personality Disorders
+Personality disorders are a group of mental health conditions characterized by enduring patterns of behavior, cognition, and inner experience that deviate significantly from cultural expectations and lead to distress or impairment in social, occupational, or other areas of functioning. There are various types of personality disorders, including borderline, narcissistic, antisocial, and avoidant, each with unique features and challenges. Treatment often involves psychotherapy aimed at improving interpersonal skills, emotional regulation, and overall quality of life.
 
 ### Symptoms:
 {: .no_toc }
@@ -244,6 +224,7 @@ It is very possible OOC mental health issues of a player can cross the lines to 
 ---
 
 ## Post-Traumatic Stress Disorder (PTSD)
+Post-Traumatic Stress Disorder (PTSD) is a mental health condition that can develop after experiencing or witnessing a traumatic event. Symptoms may include flashbacks, nightmares, severe anxiety, and uncontrollable thoughts about the event. Individuals with PTSD may also experience avoidance of reminders of the trauma, changes in mood and cognition, and heightened arousal or reactivity. Treatment typically involves therapy, such as cognitive-behavioral therapy (CBT) or eye movement desensitization and reprocessing (EMDR), along with medication when necessary, to help manage symptoms and improve quality of life.
 
 ### Symptoms:
 {: .no_toc }
@@ -258,12 +239,11 @@ It is very possible OOC mental health issues of a player can cross the lines to 
 {: .no_toc }
 
 - Antidepressants
-  - Selective serotonin reuptake inhibitors - SSRIs
-  - Serotonin-norepinephrine reuptake inhibitors - SNRIs
 
 ---
 
 ## Schizophrenia Spectrum Disorders
+Schizophrenia Spectrum Disorders are a group of chronic mental health conditions characterized by disturbances in thinking, perception, emotions, and behavior. These disorders often involve symptoms such as hallucinations, delusions, disorganized thinking and speech, reduced emotional expression, and impaired cognitive function. Treatment usually involves a combination of antipsychotic medications, psychotherapy, and social support to manage symptoms and improve overall functioning and quality of life.
 
 ### Symptoms:
 {: .no_toc }
@@ -283,6 +263,7 @@ It is very possible OOC mental health issues of a player can cross the lines to 
 ---
 
 ## Substance Use Disorders
+Substance Use Disorders are conditions characterized by problematic patterns of substance use that lead to significant impairment or distress. These disorders can involve the misuse of alcohol, opioids, stimulants, cannabis, or other substances, leading to physical dependence, tolerance, withdrawal symptoms, and difficulty controlling substance use despite negative consequences. Treatment for substance use disorders often includes a combination of therapy, medication-assisted treatment, support groups, and lifestyle changes to promote recovery and sobriety.
 
 ### Symptoms:
 {: .no_toc }
@@ -302,6 +283,7 @@ It is very possible OOC mental health issues of a player can cross the lines to 
 ---
 
 ## Suicidal Ideation or Self-Harm
+Suicidal ideation refers to thoughts or feelings about ending one's life, while self-harm involves intentionally causing physical harm to oneself without suicidal intent. Both are serious mental health concerns that require immediate attention and support. Suicidal ideation can range from fleeting thoughts to detailed plans, and self-harm behaviors can include cutting, burning, or other methods of self-injury. It's crucial for individuals experiencing these issues to seek professional help from mental health professionals or crisis hotlines for assessment, safety planning, and appropriate interventions to address underlying emotional distress and prevent harm.
 
 {: .highlight }
 **NOTE:** Some servers do not allow this type of roleplay. Look through the rules of your server or ask a server admin to confirm.
