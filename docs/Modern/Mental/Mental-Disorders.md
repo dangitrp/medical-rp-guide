@@ -138,6 +138,8 @@ Depression is a mental health disorder characterized by persistent feelings of s
 Delusional Parasitosis is a psychiatric disorder characterized by the false belief of having a parasitic infestation on or inside one's body, despite medical evidence to the contrary. Individuals with this condition often experience intense itching, crawling sensations, or other abnormal skin sensations, leading to significant distress and impaired functioning. Treatment typically involves a combination of antipsychotic medications and psychotherapy to address the delusional beliefs and improve quality of life.
 
 ### Symptoms:
+{: .no_toc }
+
 - Persistent belief of being infested with parasites or bugs
 - Actively searching for evidence of infestation on the skin, clothing, or surroundings
 - Feeling sensations of crawling, itching, or biting, despite no physical cause
@@ -147,6 +149,8 @@ Delusional Parasitosis is a psychiatric disorder characterized by the false beli
 - Decline in overall quality of life and functioning
 
 ### Medication:
+{: .no_toc }
+
 - Antipsychotics (Atypical)
 - Antidepressants (SSRIs)
 - Anxiolytics
