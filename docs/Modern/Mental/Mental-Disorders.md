@@ -134,6 +134,26 @@ Depression is a mental health disorder characterized by persistent feelings of s
 
 ---
 
+## Delusional Parasitosis (Ekbom's Syndrome)
+Delusional Parasitosis is a psychiatric disorder characterized by the false belief of having a parasitic infestation on or inside one's body, despite medical evidence to the contrary. Individuals with this condition often experience intense itching, crawling sensations, or other abnormal skin sensations, leading to significant distress and impaired functioning. Treatment typically involves a combination of antipsychotic medications and psychotherapy to address the delusional beliefs and improve quality of life.
+
+### Symptoms:
+- Persistent belief of being infested with parasites or bugs
+- Actively searching for evidence of infestation on the skin, clothing, or surroundings
+- Feeling sensations of crawling, itching, or biting, despite no physical cause
+- Obsessive behaviors related to cleaning, scratching, or inspecting the skin
+- Anxiety, distress, or avoidance behaviors due to the belief in infestation
+- Social withdrawal or isolation due to fear of spreading parasites
+- Decline in overall quality of life and functioning
+
+### Medication:
+- Antipsychotics (Atypical)
+- Antidepressants (SSRIs)
+- Anxiolytics
+- Mood stabilizers
+
+---
+
 ## Dissociative Identity Disorder
 Dissociative Identity Disorder (DID) is a complex mental health condition where an individual experiences the presence of two or more distinct personality states or identities, often accompanied by memory gaps between these identities. These identities may have unique characteristics, behaviors, and memories, leading to difficulties in maintaining a cohesive sense of self and functioning in daily life.
 
