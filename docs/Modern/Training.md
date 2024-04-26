@@ -19,8 +19,19 @@ The following objectives are areas to cover to build up knowledge as a medical r
 - Shift Policy
 - Solo-Clear Training Criteria
 - Cross-Training Expectations
+- Common Emotes
+    - /e mechanic - Intense
+    - /e parkingmeter - Moderate
+    - /e type - Mild
+    - /e notepad - Writing down notes
+    - /e think - Hand on chin
+    - /e clipboard - Holding a Clipboard
+    - /e leanbar3 - Leaning on the rails at the end of the bed
+    - /e facepalm - Disappointment
 
 
+
+---
 
 ## Basic Patient Care
 - ER Shadowing
@@ -32,7 +43,6 @@ The following objectives are areas to cover to build up knowledge as a medical r
 - Overdose / Poisoning
 - Patients in Custody (95’s)
 - ER Solo Confidence
-
 
 ---
 
@@ -74,3 +84,4 @@ The following objectives are areas to cover to build up knowledge as a medical r
 - Radio Usage
 - Triage
 - Code Blue
+
