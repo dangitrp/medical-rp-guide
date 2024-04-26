@@ -56,14 +56,14 @@ As this is roleplay, always remember to **suspend your disbelief (become more gu
 </td><td>
 <a href="/docs/Modern/Radio.html"><figure class="image"> <img src="https://raw.githubusercontent.com/dangitrp/medical-rp-guide/main/assets/images/radio.jpg"></figure></a>
 </td><td>
-<a href="/docs/Modern/Respiratory.html"><figure class="image"> <img src="https://raw.githubusercontent.com/dangitrp/medical-rp-guide/main/assets/images/lungs.jpg"></figure></a>
+<a href="/docs/Modern/Reports.html"><figure class="image"> <img src="https://raw.githubusercontent.com/dangitrp/medical-rp-guide/main/assets/images/reports.jpg"></figure></a>
 </td></tr>
 <tr><td>
+<a href="/docs/Modern/Respiratory.html"><figure class="image"> <img src="https://raw.githubusercontent.com/dangitrp/medical-rp-guide/main/assets/images/lungs.jpg"></figure></a>
+</td><td>
 <a href="/docs/Modern/Training.html"><figure class="image"> <img src="https://raw.githubusercontent.com/dangitrp/medical-rp-guide/main/assets/images/training.jpg"></figure></a>
 </td><td>
 <a href="/docs/Modern/Triage.html"><figure class="image"> <img src="https://raw.githubusercontent.com/dangitrp/medical-rp-guide/main/assets/images/triage.jpg"></figure></a>
-</td><td>
-
 </td></tr>
 </tbody>
 </table>
