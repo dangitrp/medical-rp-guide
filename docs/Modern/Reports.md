@@ -5,6 +5,7 @@ parent: Modern Medicine
 ---
 
 # Reports
+As a reminder, medical reports and their disclosures are subject to <a href="/docs/Modern/Privacy.html">Privacy Laws</a>
 
 ## Types of Medical Reports
 
