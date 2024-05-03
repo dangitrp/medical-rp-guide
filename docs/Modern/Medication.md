@@ -153,7 +153,9 @@ Treats overdose caused by opioids / narcotics.
 
 ### Poisoning
 Used for suspected poisonings; encourages emesis (vomiting) as well preventing the stomach from absorbing the poison into the body.
+
 * Activated Charcoal
+
 ---
 
 ## Psychological / Mental Health
