@@ -23,6 +23,7 @@ While plain English is generally acceptable, some players do enjoy uzing radio c
 | **10-13B**  | Non-Urgent LEO Down                            |
 | **10-14A**  | Urgent Medical Down                            |
 | **10-14B**  | Non-Urgent Medical Down                        |
+| **10-19**   | Return to Base                                 |
 | **10-20**   | Current Location                               |
 | **10-23**   | Arrived on Scene                               |
 | **10-25**   | Meet in Person                                 |
