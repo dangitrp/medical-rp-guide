@@ -39,7 +39,7 @@ The following objectives are areas to cover to build up knowledge as a medical r
 - 1st and 2nd degree Burns
 - Road Rash
 - Overdose / Poisoning
-- Patients in Custody (95’s)
+- Patients in Custody (On-Scene and Inside Hospital)
 - ER Solo Confidence
 
 ---
