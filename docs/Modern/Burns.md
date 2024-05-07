@@ -9,11 +9,13 @@ parent: Modern Medicine
 ## On-Scene
 
 ### 1st and 2nd Degree
+- Start fluids through an IV
 - Clean with Saline
 - Add burn gel to burns
 - Loosely wrap with non-adhesive gauze
 
 ### 3rd Degree
+- Start fluids through an IV
 - Cool down with Saline
 
 ---
@@ -23,6 +25,7 @@ parent: Modern Medicine
 ### 1st Degree - Superficial
 No surgery required
 
+- Start fluids through an IV if not already started
 - Cool the burn with a cool, not cold, flush or cool compress
 - Apply burn cream if needed
 - Apply clean, sterile bandages
@@ -38,6 +41,7 @@ No surgery required
 ### 2nd Degree - Some Blisters
 No surgery required
 
+- Start fluids through an IV if not already started
 - Cool the burn with a cool, not cold, flush or cool compress
   - Don't break blisters as this can cause infection
 - Apply burn cream and antibiotic ointment
@@ -54,6 +58,7 @@ No surgery required
 ### 3rd Degree - Destroyed Skin
 Surgery Required
 
+- Start fluids through an IV if not already started
 - Move the patient into the operating room
 - Apply an oxygen mask
 - Administer a general anasthetic
@@ -83,6 +88,7 @@ Surgery Required
 
 NOTE: Amputations are not allowed in some servers. Refer to your server rules or check with a server admin before proceeding
 
+- Start fluids through an IV if not already started
 - Move the patient into the operating room
 - Apply an oxygen mask
 - Administer a general anasthetic
