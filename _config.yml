@@ -6,6 +6,8 @@ url: https://medrp.agrra.net
 aux_links:
   Guide Repository: https://github.com/dangitrp/medical-rp-guide
 
+aux_links_new_tab: true
+
 plugins:
   - jekyll-default-layout
 
@@ -34,3 +36,5 @@ callouts:
 
 
 ga_tracking: G-409CW9NX9F
+
+exclude: ["LICENSE"]
