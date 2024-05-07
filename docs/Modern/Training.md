@@ -54,6 +54,7 @@ The following objectives are areas to cover to build up knowledge as a medical r
 - Radio Usage
 - Triage
 - Code Blue
+- EMS Solo Confidence
 
 ---
 
