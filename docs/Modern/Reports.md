@@ -80,3 +80,16 @@ Information included in an autopsy report generally includes
 - Explanation of fatal injuries
 - Personal Effects
 - Death Certificate
+
+
+---
+
+### Medical Record Access Report
+Some cities have an active police/DOJ system that requests medical records. Keeping track of those requests will allow players to leave breadcrumbs for improperly accessed documents/corruption rp. Information to track would include:
+
+ - Report accessed
+ - Requestor
+ - Requesting organization
+ - Associated Police Incident report or Case Number
+ - Date accessed
+ - Medical staff who accessed
