@@ -56,8 +56,15 @@ Fill out an ICE Contacts log, making sure you gather this information
   - Check for irregular beat, heart murmur etc.
   - Gather Vitals
     - Check BP
+      - Low (First number below 90, second number below 60)
+      - Ideal (First number between 90-120, Second number between 60-80)
+      - Pre-High (First number between 120-140, Second number between 80-90)
+      - High (First number above 140, Second number above 90)
     - Check heart rate
-    - Check blood oxygen levels (95-99 perfect, <95 concerning)
+      - Low (below 60, unless athlete) - Bradycardia
+      - Ideal (60-100) 
+      - High (above 100) - Tachycardia
+    - Check blood oxygen levels (95-99 perfect, less than 95 is concerning/start oxygen)
 
 ---
 
