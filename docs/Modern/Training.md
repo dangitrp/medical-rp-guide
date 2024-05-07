@@ -44,6 +44,19 @@ The following objectives are areas to cover to build up knowledge as a medical r
 
 ---
 
+## EMS, Triage, Mutual Aid
+- EMS Shadowing
+- Vehicle Mechanics
+- Driving an Emergency Vehicle
+- Scene Safety and Unified Command
+- Mutual Aid Requests
+- Medical Handoffs and Knowledge Transfer
+- Radio Usage
+- Triage
+- Code Blue
+
+---
+
 ## Imaging
 - Xray
 - CT Scan (Computed Tomography)
@@ -73,17 +86,3 @@ The following objectives are areas to cover to build up knowledge as a medical r
 - Medical Records Management
 - Death Certificates
 - Privacy laws and disclosure of information
-
----
-
-## EMS, Triage, Mutual Aid
-- EMS Shadowing
-- Vehicle Mechanics
-- Driving an Emergency Vehicle
-- Scene Safety and Unified Command
-- Mutual Aid Requests
-- Medical Handoffs and Knowledge Transfer
-- Radio Usage
-- Triage
-- Code Blue
-
