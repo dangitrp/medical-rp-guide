@@ -29,8 +29,6 @@ The following objectives are areas to cover to build up knowledge as a medical r
     - /e leanbar3 - Leaning on the rails at the end of the bed
     - /e facepalm - Disappointment
 
-
-
 ---
 
 ## Basic Patient Care
@@ -68,7 +66,6 @@ The following objectives are areas to cover to build up knowledge as a medical r
 - Fatalities
 - Surgery Solo Confidence
 
-
 ---
 
 ## Reporting
@@ -79,7 +76,12 @@ The following objectives are areas to cover to build up knowledge as a medical r
 
 ---
 
-## Triage and Mutual Aid
+## EMS, Triage, Mutual Aid
+- EMS Shadowing
+- Vehicle Mechanics
+- Driving an Emergency Vehicle
+- Scene Safety and Unified Command
+- Mutual Aid Requests
 - Medical Handoffs and Knowledge Transfer
 - Radio Usage
 - Triage
