@@ -26,12 +26,15 @@ While plain English is generally acceptable, some players do enjoy uzing radio c
 | **10-14B**  | Non-Urgent Medical Down                        |
 | **10-19**   | Return to Base                                 |
 | **10-20**   | Current Location                               |
+| **10-22**   | Disregard                                      |
 | **10-23**   | Arrived on Scene                               |
+| **10-24**   | Clearing Scene                                 |
 | **10-25**   | Meet in Person                                 |
 | **10-41**   | On Duty                                        |
 | **10-42**   | Off Duty                                       |
-| **10-47**   | Medical Alert                                  |
+| **10-47**   | Medical Alert / Downed Person                  |
 | **10-52**   | Medical Needed                                 |
+| **10-71**   | Shots Fired                                    |
 | **10-76**   | Enroute                                        |
 | **10-77**   | Police Assistance Requested                    |
 | **10-78**   | Urgent Dangerous Situation, Send Everyone      |
