@@ -32,6 +32,8 @@ While plain English is generally acceptable, some players do enjoy uzing radio c
 | **10-47**   | Medical Alert                                  |
 | **10-52**   | Medical Needed                                 |
 | **10-76**   | Enroute                                        |
+| **10-77**   | Police Assistance Requested                    |
+| **10-78**   | Urgent Dangerous Situation, Send Everyone      |
 | **10-95**   | Suspect in Custody                             |
 | **10-100**  | Crash/Sudden Nap/Disconnect                    |
 | **Code 1**    | No Lights, No Siren             |
