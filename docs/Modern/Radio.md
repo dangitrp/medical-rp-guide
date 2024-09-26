@@ -7,7 +7,7 @@ parent: Modern Medicine
 # Radio Communications
 
 ## Radio Codes
-While plain English is generally acceptable, some players do enjoy uzing radio codes in their roleplay.
+While plain English is generally acceptable, some players do enjoy uzing radio codes in their roleplay. These are commonly accepted radio codes across multiple servers.
 
 | **Radio Code** | **Meaning**                                    |
 |-------------|------------------------------------------------|
