@@ -19,6 +19,7 @@ While plain English is generally acceptable, some players do enjoy uzing radio c
 | **10-7**    | Out of Service (Short Break)                   |
 | **10-8**    | In Service                                     |
 | **10-9**    | Repeat Last Radio Transmission                 |
+| **10-12**   | Standby                                        |
 | **10-13A**  | Urgent LEO Down                                |
 | **10-13B**  | Non-Urgent LEO Down                            |
 | **10-14A**  | Urgent Medical Down                            |
