@@ -8,4 +8,4 @@ parent: Server-Specific
 
 ## Standard Operating Procedures
 
-- [Pillbox Medical SOP's](https://docs.google.com/document/d/13IV9pLPAPqIQXNQwCQC0jewVldq_gG0vAQ2X6artaNs/edit)
+- [Central Los Santos SOP's](https://docs.google.com/document/d/13IV9pLPAPqIQXNQwCQC0jewVldq_gG0vAQ2X6artaNs/edit)
