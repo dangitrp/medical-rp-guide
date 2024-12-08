@@ -44,6 +44,7 @@ While plain English is generally acceptable, some players do enjoy uzing radio c
 | **Code 2**    | Lights, No Siren                |
 | **Code 3**    | Lights and Siren                |
 | **Code 4**    | All Clear                       |
+| **Code 6**    | Searching                       |
 | **Code Blue** | Coding Patient / Cardiac Arrest |
 | **UTL**       | Unable to Locate                |
 
